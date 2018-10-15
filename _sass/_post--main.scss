@@ -1,0 +1,51 @@
+.blog--content { padding-bottom: 8rem; border-bottom: 1px solid rgba(0,0,0,.2) }
+
+.blog--content > section > p {
+  font-size: 2rem;
+  line-height: 1.7;
+  margin-bottom: 1.2rem;
+}
+
+.blog--header {
+  margin: 8rem auto 4rem auto;
+  @include breakpoint(mdl) { margin: 8rem auto 4rem auto; }
+}
+
+.blog--header > figure > img { width: 100%; box-shadow: 0 10px 40px 0 rgba(0,0,0,.4); }
+
+.blog--header > h5 {
+  margin-bottom: 3.2rem;
+  @include breakpoint(mdl) { margin-bottom: 5.6rem; }
+}
+
+.blog--content > section p + p { text-indent: 2ch; }
+
+
+.post--footer {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto 6.4rem auto;
+  @include breakpoint(md) { flex-direction: row; width: grid-width(10); }
+}
+
+.post--footer a { transition: var(--ease); }
+.post--footer a:hover { @include breakpoint(mdl) { color: blue; } }
+
+// .post--footer__entry {
+//   width: 100%;
+//   padding-right: 1.2rem;
+//   @include breakpoint(mdl) { width: 50%; }
+// }
+
+.post--footer__entry {
+  width: 100%;
+  @include breakpoint(mdl) { margin: 0 auto; width: 50%; }
+}
+
+.post--footer__entry:nth-of-type(2) {
+  display: none;
+  flex-direction: column;
+  padding-left: 3rem;
+  padding-right: 0;
+  @include breakpoint(mdl) { display: flex; }
+}

@@ -1,0 +1,9 @@
+<header class="wrapper--intro">
+  {% for post in site.categories.intro %}
+
+    <h1 class="mb-1 f-xxl f-proto">{{ post.firstLine }}</h1>
+    <h1 class="f-xxl f-founders-medium">{{ post.secondLine }}</h1>
+    <h5 class="mt-3">{{ post.thirdLine }}</h5>
+
+  {% endfor %}
+</header>

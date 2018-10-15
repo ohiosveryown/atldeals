@@ -1,0 +1,43 @@
+.wrapper--blog__title, .wrapper--blog {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto auto;
+  @include breakpoint(md) { width: grid-width(10); }
+}
+
+.wrapper--blog__title {
+  margin: 3.2rem auto 2rem auto;
+  @include breakpoint(md) { margin-top: 9.6rem; }
+}
+
+.home--blog {
+  display: flex;
+  flex-direction: column;
+  @include breakpoint(md) { flex-direction: row; }
+}
+
+.home--blog > header {
+  align-self: center;
+  margin-bottom: 1.2rem;
+  @include breakpoint(md) { margin-bottom: 0; width: grid-width(7); }
+}
+
+.home--blog > figure {
+  max-height: 200px;
+  overflow: hidden;
+  box-shadow: 0 10px 40px 0 rgba(0,0,0,.3);
+  @include breakpoint(md) { margin-left: grid-width(1); width: grid-width(4); }
+}
+
+.home--blog > figure > a > img { will-change: transform; transition: var(--ease); }
+header:hover ~ figure > a > img, figure:hover > a >img { @include breakpoint(mdl) { transform: scale(1.1); }}
+
+article.home--blog:nth-of-type(2) {
+  margin: 4rem 0;
+  @include breakpoint(md) { margin: 5.2rem 0; }
+}
+
+article.home--blog:last-of-type { margin-bottom: 6.4rem; }
+
+article.home--blog > header > h3 > a { margin-top: .8rem; transition: var(--ease); }
+article.home--blog > header > h3 > a:hover { color: blue; }

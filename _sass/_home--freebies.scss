@@ -1,0 +1,37 @@
+.wrapper--freebies__title, .wrapper--freebies {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto auto;
+
+  @include breakpoint(md) {
+    flex-direction: row;
+    justify-content: space-between;
+    width: grid-width(10);
+  }
+}
+
+.wrapper--freebies__title {
+  margin: 4.8rem auto 2rem auto;
+  @include breakpoint(md) { margin-top: 12.4rem; }
+}
+
+article.freebies:nth-of-type(4) { @include breakpoint(md) { margin-right: 0; }}
+
+article.freebies {
+  margin-bottom: 2rem;
+  padding-bottom: 1.6rem;
+  border-bottom: 1px solid;
+
+  @include breakpoint(md) {
+    border-bottom: 2px solid;
+    margin-right: 2.4rem;
+    width: grid-width(6);
+  }
+
+  @include breakpoint(mdl) {
+    width: grid-width(3);
+  }
+}
+
+article.freebies > h3 > a { margin-top: .8rem; transition: var(--ease); }
+article.freebies > h3 > a:hover { color: blue; }
