@@ -1,0 +1,15 @@
+.wrapper--intro {
+  display: flex;
+  flex-direction: column;
+  margin: 9.6rem auto 2rem auto;
+
+  @include breakpoint(md) {
+    margin-bottom: 8rem;
+    width: grid-width(10);
+  }
+
+  @include breakpoint(mdl) { margin: 8rem auto 11.2rem auto; }
+  @include breakpoint(lg)  { margin: 9.6rem auto 11.2rem auto; }
+}
+
+// .wrapper--intro > h1:first-of-type { margin-bottom: 1rem; }

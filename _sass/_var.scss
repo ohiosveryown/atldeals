@@ -1,0 +1,20 @@
+:root {
+  --system_font: -apple-system, BlinkMacSystemFont, 'avenir next', 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+  --unit: 8px;
+  --max_width: 120rem;
+//
+  --ease: all 400ms ease;
+  --ease_delay: all 400ms ease 300ms;
+//
+  --zmax: 9999;
+  --z4: 4;
+  --z3: 3;
+  --z2: 2;
+  --z1: 1;
+  --z0: -1;
+  --zmin: -9999;
+//
+  --gravity: #1b1c1c;
+  --cloud: #fff;
+  --sagan: #ececec;
+}

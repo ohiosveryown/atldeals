@@ -1,0 +1,72 @@
+//
+@font-face {
+	font-family: 'AtlasGrotesk';
+	src: url('//atldeals.veryown.co/assets/fonts/AtlasGrotesk-Medium.woff');
+	src: local('☺'), url('//atldeals.veryown.co/assets/fonts/AtlasGrotesk-Medium.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'FoundersGrotesk-Medium';
+	src: url('//atldeals.veryown.co/assets/fonts/FoundersGrotesk-Medium.woff');
+	src: local('☺'), url('//atldeals.veryown.co/assets/fonts/FoundersGrotesk-Medium.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'ProtoGrotesk';
+	src: url('//atldeals.veryown.co/assets/fonts/ProtoGrotesk.woff');
+	src: local('☺'), url('//atldeals.veryown.co/assets/fonts/ProtoGrotesk.woff') format('woff');
+}
+
+//
+
+.f-bold      { font-weight: bold; }
+.f-light     { font-weight: 300; }
+.f-serif     { font-family: Georgia, 'Times New Roman', Times, serif; }
+.f-mono      { font-family: 'SF Mono', 'Segoe UI Mono', 'Roboto Mono', 'Ubuntu Mono', Menlo, Courier, monospace; }
+.f-italic    { font-family: var(--system_font); font-style: italic; }
+
+.f-atlas { font-family: 'AtlasGrotesk', var(--system_font); }
+.f-founders-medium { font-family: 'FoundersGrotesk-Medium', var(--system_font); }
+.f-proto { font-family: 'ProtoGrotesk', var(--system_font); }
+
+//
+.f-xxl {
+  line-height: 1;
+  @include breakpoint(md)  { font-size: 6.4vw; }
+  @include breakpoint(mdl) { font-size: 7vw; }
+  @include breakpoint(lg)  { font-size: 84px; }
+}
+
+.f-xl {
+  line-height: 1;
+  @include breakpoint(md)  { font-size: 6.4vw; }
+  @include breakpoint(mdl) { font-size: 7vw; }
+  @include breakpoint(lg)  { font-size: 72px; }
+}
+.f-30  { font-size: 2.0rem; line-height: 1.1; @include breakpoint(md) { font-size: 3rem; }}
+.f-22  { font-size: 2.2rem; }
+.f-20  { font-size: 2rem; line-height: 1.2; }
+.f-14  { font-size: 1.4rem; }
+.f-p   { font-size: 1.6rem; line-height: 1.6; letter-spacing: -0.5px; }
+.f-xxs { font-size: 1.2rem; line-height: 1.15; }
+
+.uc  { text-transform: uppercase; }
+.tal { text-align: left; }
+.tar { text-align: right; }
+.tac { text-align: center; }
+.taj { text-align: justify; }
+.tin { text-indent: 2ch; }
+
+//
+
+.meas-0 { @include breakpoint(mdl) { max-width: 50ch; } }
+.meas-1 { @include breakpoint(mdl) { max-width: 10%;  } }
+.meas-2 { @include breakpoint(mdl) { max-width: 20%;  } }
+.meas-3 { @include breakpoint(mdl) { max-width: 30%;  } }
+.meas-4 { @include breakpoint(mdl) { max-width: 40%;  } }
+.meas-5 { @include breakpoint(mdl) { max-width: 50%;  } }
+.meas-6 { @include breakpoint(mdl) { max-width: 60%;  } }
+.meas-7 { @include breakpoint(mdl) { max-width: 70%;  } }
+.meas-8 { @include breakpoint(mdl) { max-width: 80%;  } }
+.meas-9 { @include breakpoint(mdl) { max-width: 90%;  } }
+.meas-95{ @include breakpoint(mdl) { max-width: 95%;  } }
