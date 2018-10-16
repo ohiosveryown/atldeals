@@ -44,6 +44,11 @@
   animation: fadein 1000ms ease 700ms forwards;
 }
 
+.fade-in-2 {
+  opacity: 0;
+  animation: fadein 1000ms ease 900ms forwards;
+}
+
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
