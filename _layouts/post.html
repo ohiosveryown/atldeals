@@ -2,15 +2,29 @@
 layout: default
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+<article class="blog--content wrapper-main__sm">
+  <header class="blog--header">
+    <h1 class="f-xl f-founders-medium">{{ page.postTitle }}</h1>
+    <h5>{{ page.date | date_to_long_string }}</h5>
+    <figure>
+      <img src="{{ page.image }}" alt="">
+      <!-- <img src="../../../../../img/blog-img-03@2x.jpg" alt="blog image one"> -->
+    </figure>
   </header>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
+  <section>{{ content }}</section>
 </article>
+
+<footer class="post--footer">
+
+  {% if page.previous.url %}
+    <div class="post--footer__entry">
+      <h5 class="mb-1">{{ page.previous.date | date_to_long_string }}</h5>
+      <a href="{{ page.previous.url }}">
+        <h3 class="f-founders-medium f-30">{{ page.previous.description | truncate: 80 }}</h3>
+      </a>
+      <!-- <h5>Next Post</h5> -->
+    </div>
+  {% endif %}
+
+</footer>
