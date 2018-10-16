@@ -17,13 +17,19 @@
 }
 
 .home--blog > header {
-  align-self: center;
   margin-bottom: 1.2rem;
-  @include breakpoint(md) { margin-bottom: 0; width: grid-width(7); }
+
+  @include breakpoint(md) {
+    align-self: center;
+    margin-top: -4rem;
+    margin-bottom: 0;
+    width: grid-width(7);
+  }
 }
 
 .home--blog > figure {
-  height: 200px;
+  margin-bottom: 1.6rem;
+  height: 164px;
   overflow: hidden;
   box-shadow: 0 10px 40px 0 rgba(0,0,0,.3);
   @include breakpoint(md) { margin-left: grid-width(1); width: grid-width(4); }
