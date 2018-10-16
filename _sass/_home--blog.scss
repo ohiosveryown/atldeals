@@ -23,7 +23,7 @@
 }
 
 .home--blog > figure {
-  max-height: 200px;
+  height: 200px;
   overflow: hidden;
   box-shadow: 0 10px 40px 0 rgba(0,0,0,.3);
   @include breakpoint(md) { margin-left: grid-width(1); width: grid-width(4); }
