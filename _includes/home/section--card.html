@@ -1,11 +1,11 @@
 <div class="cover"></div>
 
-<section class="wrapper--card">
+<section class="fade-in-2 wrapper--card">
   {% for post in site.categories.new limit: 2 %}
     <a class="card" href="{{ post.url | prepend: site.baseurl }}">
       <article>
         <h2>{{ post.icon }}</h2>
-        <h3 class="f-atlas f-22">{{ post.title }}</h3>
+      <h3 class="f-atlas f-22">{{ post.title }}</h3>
         <p>{{ post.description | truncate: 102 }}</p>
       </article>
     </a>
