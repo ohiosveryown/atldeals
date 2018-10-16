@@ -9,8 +9,8 @@ collections:
     title: Uploads
     output: true
 email: your-email@domain.com
-description: 'Atl Deals description...'
-baseurl:
+description: Atl Deals description...
+baseurl: 
 url: http:/atl.pink
 twitter_username: jekyllrb
 github_username: jekyll
