@@ -29,7 +29,7 @@
   @include breakpoint(md) { margin-left: grid-width(1); width: grid-width(4); }
 }
 
-.home--blog > figure > a > img { will-change: transform; transition: var(--ease); }
+.home--blog > figure > a > img { width: 100%; height: 100%; object-fit: cover; will-change: transform; transition: var(--ease); }
 header:hover ~ figure > a > img, figure:hover > a >img { @include breakpoint(mdl) { transform: scale(1.1); }}
 
 article.home--blog:nth-of-type(2) {
