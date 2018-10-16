@@ -3,7 +3,7 @@
 .blog--content > section > p {
   font-size: 2rem;
   line-height: 1.7;
-  margin-bottom: 1.2rem;
+  margin-bottom: 2rem;
 }
 
 .blog--header {
@@ -18,8 +18,24 @@
   @include breakpoint(mdl) { margin-bottom: 5.6rem; }
 }
 
-.blog--content > section p + p { text-indent: 2ch; }
+// .blog--content > section p + p { text-indent: 2ch; }
 
+.blog--content a { color: blue; text-decoration: underline; }
+.blog--content a:hover { color: blue; text-decoration: none; }
+
+.blog--content > section > ul {
+  margin-left: 2.4ch;
+  margin-bottom: 2rem;
+}
+
+.blog--content > section > ul > li {
+  font-size: 2rem;
+  line-height: 1.7;
+  margin-bottom: 1.2rem;
+}
+
+.blog--content > section > ul > li > ul { margin-left: 2.4ch; }
+.blog--content > section > ul > li > ul > li { margin-bottom: 1.2rem; }
 
 .post--footer {
   display: flex;
