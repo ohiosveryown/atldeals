@@ -5,8 +5,9 @@
 
   @include breakpoint(md) {
     flex-direction: row;
-    margin: 6.4rem auto auto;
-    padding-bottom: 12.4rem;
+    margin: 6.4rem auto 0 auto;
+    // margin: 6.4rem auto auto;
+    // padding-bottom: 12.4rem;
     width: grid-width(10);
   }
 }
@@ -14,10 +15,13 @@
 .card {
   margin-bottom: 1.6rem;
   padding: 4rem 2rem;
+  max-height: 276px;
   border-radius: 24px;
   box-shadow: 0px 64px 64px -56px rgba(0,0,0,0.72);
   background-blend-mode: hard-light;
   background-size: cover;
+  transition: all 300ms ease-out;
+  will-change: transform;
   // transition: all 400ms ease;
   @include breakpoint(md)  { padding: 4rem 2rem; }
   @include breakpoint(mdl) { padding: 5.6rem 2rem; }
@@ -48,7 +52,8 @@
 
 .card:nth-of-type(even) {
   margin-top: 3.2rem;
-  @include breakpoint(md) { margin-top: 0; transform: translateY(12.4rem); }
+  @include breakpoint(md) { margin-top: 12.4rem; }
+  // @include breakpoint(md) { margin-top: 12.4rem; transform: translateY(12.4rem); }
 }
 
 .card:nth-of-type(1) {

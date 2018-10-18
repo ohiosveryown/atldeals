@@ -12,7 +12,8 @@
 
 .wrapper--freebies__title {
   margin: 4.8rem auto 2rem auto;
-  @include breakpoint(md) { margin-top: 12.4rem; }
+  @include breakpoint(md) { margin: 2rem auto 2rem auto; }
+  // @include breakpoint(md) { margin-top: 12.4rem; }
 }
 
 article.freebies:nth-of-type(4) { @include breakpoint(md) { margin-right: 0; }}

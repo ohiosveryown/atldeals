@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   margin: 9.6rem auto 2rem auto;
+  will-change: transform;
 
   @include breakpoint(md) {
     margin-bottom: 8rem;

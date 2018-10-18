@@ -12,3 +12,17 @@
 
   {% endfor %}
 </section>
+
+
+<script>
+  const cardOne = document.querySelectorAll(".card")[0];
+  const cardTwo = document.querySelectorAll(".card")[1];
+
+  cardOne.classList.add('rellax');
+  cardOne.setAttribute('data-rellax-speed', '1.4')
+
+  cardTwo.classList.add('rellax');
+  cardTwo.setAttribute('data-rellax-speed', '3')
+
+  let rellax = new Rellax('.rellax')
+</script>
