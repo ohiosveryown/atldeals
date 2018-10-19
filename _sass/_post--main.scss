@@ -54,8 +54,10 @@
 // }
 
 .post--footer__entry {
+  margin-top: 56px;
   width: 100%;
-  @include breakpoint(mdl) { margin: 0 auto; width: 50%; }
+  @include breakpoint(md) { margin: 0 auto; width: 75%; }
+  @include breakpoint(lg) { width: 50%; }
 }
 
 .post--footer__entry:nth-of-type(2) {
