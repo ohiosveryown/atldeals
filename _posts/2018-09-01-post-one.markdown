@@ -1,6 +1,7 @@
 ---
 title: Post One
 date: 2018-09-01 21:09:00 Z
+permalink: "/about/"
 categories:
 - new
 - blog
@@ -9,7 +10,6 @@ icon: "\U0001F4B3"
 description: Let's Talk About Bank Bonuses
 image: "/uploads/goat.jpg"
 layout: post
-permalink: "/about/"
 ---
 
 Many friends and family ask how they can make passive income outside of their normal day jobs, so I decided to consolidate all my tips and tricks into a blog. One of favorite ways is bank bonuses, ranging from $100 - $500 apiece. Many banks offer sign up bonuses when you open a new account. Collectively, increasing your income at least $2,000 per year. I’ve created ATL Daily Deals as a beginner’s guide for all my friends and family in the Atlanta area. Below you'll find typical questions I usually receive about Bank Bonuses.
