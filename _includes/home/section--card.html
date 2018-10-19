@@ -15,14 +15,18 @@
 
 
 <script>
+  const breakpoint = window.matchMedia("(min-width: 700px)")
   const cardOne = document.querySelectorAll('.card')[0]
   const cardTwo = document.querySelectorAll('.card')[1]
 
-  cardOne.classList.add('rellax')
-  cardOne.setAttribute('data-rellax-speed', '3')
+  if (breakpoint.matches) {
+    cardOne.classList.add('rellax')
+    cardOne.setAttribute('data-rellax-speed', '2.3')
 
-  cardTwo.classList.add('rellax');
-  cardTwo.setAttribute('data-rellax-speed', '1.2')
+    cardTwo.classList.add('rellax')
+    cardTwo.setAttribute('data-rellax-speed', '1.5')
+  }
+  else {}
 
   let rellax = new Rellax('.rellax')
 </script>
