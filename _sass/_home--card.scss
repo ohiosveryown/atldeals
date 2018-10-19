@@ -15,7 +15,7 @@
 .card {
   margin-bottom: 1.6rem;
   padding: 4rem 2rem;
-  max-height: 276px;
+  // height: 264px;
   border-radius: 24px;
   box-shadow: 0px 64px 64px -56px rgba(0,0,0,0.72);
   background-blend-mode: hard-light;
@@ -25,8 +25,10 @@
   // transition: all 400ms ease;
   @include breakpoint(md)  { padding: 4rem 2rem; }
   @include breakpoint(mdl) { padding: 5.6rem 2rem; }
-  @include breakpoint(lg)  { padding: 7.2rem 2rem; }
+  @include breakpoint(lg)  { padding: 7.2rem 2rem;  }
 }
+
+.card:nth-of-type(1) { height: 50%; }
 
 .card > article > h2 {
   font-size: 3.2rem;
