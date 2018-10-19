@@ -7,7 +7,7 @@ categories:
 postTitle: This is post eight and it's description
 icon: "\U0001F4B3"
 description: This is post eight and it's description. You should probably delete this.
-image: "/uploads/blog-img-01@2x.jpg"
+image: "/uploads/goat.jpg"
 layout: post
 ---
 
