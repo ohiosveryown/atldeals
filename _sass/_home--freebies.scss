@@ -4,10 +4,12 @@
   margin: 0 auto auto;
 
   @include breakpoint(md) {
-    flex-direction: row;
+    // flex-direction: row;
     justify-content: space-between;
     width: grid-width(10);
   }
+
+  @include breakpoint(mdl) { flex-direction: row; }
 }
 
 .wrapper--freebies__title {
@@ -26,7 +28,7 @@ article.freebies {
   @include breakpoint(md) {
     border-bottom: 2px solid;
     margin-right: 2.4rem;
-    width: grid-width(6);
+    // width: grid-width(6);
   }
 
   @include breakpoint(mdl) {
