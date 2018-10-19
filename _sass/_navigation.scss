@@ -13,7 +13,7 @@ nav, footer {
 
 .nav--content__lg {
   display: none;
-  @include breakpoint(md) {
+  @include breakpoint(mdl) {
     display: flex;
     flex-direction: row;
     margin: 0 auto;
@@ -35,7 +35,7 @@ nav, footer {
   justify-content: center;
   z-index: var(--zmax);
   // margin-left: 20px;
-  @include breakpoint(md) { display: none; }
+  @include breakpoint(mdl) { display: none; }
 }
 
 span {
@@ -68,7 +68,7 @@ span {
   transform: translateX(100vw);
   transition: transform 1ms 400ms, opacity 300ms ease;
 
-  @include breakpoint(md) { display: none; }
+  @include breakpoint(mdl) { display: none; }
 }
 
 .nav--content__sm-show {
