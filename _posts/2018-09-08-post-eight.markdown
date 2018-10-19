@@ -4,6 +4,7 @@ date: 2018-09-08 21:09:00 Z
 categories:
 - new
 - bank-bonus
+- freebies
 postTitle: This is post eight and it's description
 icon: "\U0001F4B3"
 description: This is post eight and it's description. You should probably delete this.
