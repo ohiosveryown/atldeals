@@ -5,6 +5,7 @@ categories:
 - new
 - bank-bonus
 - freebies
+- deals
 postTitle: This is post eight and it's description
 icon: "\U0001F4B3"
 description: This is post eight and it's description. You should probably delete this.
