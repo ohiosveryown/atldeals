@@ -1,6 +1,7 @@
 ---
 title: Post One
 date: 2018-09-01 21:09:00 Z
+permalink: "/about/"
 categories:
 - new
 - blog
