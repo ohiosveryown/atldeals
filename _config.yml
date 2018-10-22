@@ -16,7 +16,7 @@ description: Atlanta Daily Deals (https://atl.deals) is a general repository for
   The type is set in Proto Grotesk, Founders Grotesk, Atlas Grotesk and System Fonts
   — Yes, 4+ typefaces. The site was designed and built by Matthew Pence – @cmykw_
 baseurl:
-url: http:/atl.deals
+url: https:/atl.deals
 twitter_username: cmykw_
 github_username: ohiosveryown
 markdown: kramdown
