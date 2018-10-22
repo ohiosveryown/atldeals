@@ -15,8 +15,8 @@ description: Atlanta Daily Deals (https://atl.deals) is a general repository for
   pages and maintained through Siteleaf. Special thanks for Rellax by Dixon & Moe.
   The type is set in Proto Grotesk, Founders Grotesk, Atlas Grotesk and System Fonts
   — Yes, 4+ typefaces. The site was designed and built by Matthew Pence – @cmykw_
-baseurl: 
-url: http:/atl.pink
+baseurl:
+url: http:/atl.deals
 twitter_username: cmykw_
 github_username: ohiosveryown
 markdown: kramdown
