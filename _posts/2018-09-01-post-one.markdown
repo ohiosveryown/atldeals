@@ -5,7 +5,7 @@ permalink: "/about/"
 categories:
 - new
 - blog
-postTitle: Introduction to Bank Bonuses
+postTitle: Intro to Bank Bonuses
 icon: 
 description: Introduction to Bank Bonuses
 image: "/uploads/credit.gif"
