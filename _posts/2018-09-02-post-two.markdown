@@ -11,7 +11,7 @@ image: "/uploads/joe-yates-619092-unsplash.jpg"
 layout: post
 ---
 
-![$300 Checking.png](/uploads/$300%20Checking.png)
+![$300 Checking (2).png](/uploads/$300%20Checking%20(2).png)
 
 ![Bonus Details 4-3d7265.png](/uploads/Bonus%20Details%204-3d7265.png)
 
@@ -29,7 +29,7 @@ layout: post
 
 [$300 Offer Link](https://accounts.chase.com/consumer/banking/extemail?code=GG2669996FX3D9Y1&jp_cmp=rb/59666/ema/LC-NM096/Body_Image_1)
 
-![Student Checking.png](/uploads/Student%20Checking.png)
+![$100 Student.png](/uploads/$100%20Student.png)
 ![Bonus Details 4-3d7265.png](/uploads/Bonus%20Details%204-3d7265.png)
 
 * Deposit $25 or more at account opening
