@@ -3,7 +3,7 @@ title: Post Three
 date: 2018-09-03 21:09:00 Z
 categories:
 - new
-- blog
+- bank-bonus
 postTitle: PNC - up to $300
 icon: 
 description: This is post three and it's description. You should probably delete this.
