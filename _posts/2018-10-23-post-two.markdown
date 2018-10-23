@@ -6,7 +6,7 @@ categories:
 - bank-bonus
 postTitle: Chase
 icon: 
-description: "\\$100 - $300"
+description: "$100 - $300"
 image: "/uploads/joe-yates-619092-unsplash.jpg"
 layout: post
 ---
