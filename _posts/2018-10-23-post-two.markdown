@@ -1,12 +1,12 @@
 ---
-title: Post Two
+title: Chase Checking
 date: 2018-10-23 21:09:00 Z
 categories:
 - new
 - bank-bonus
 postTitle: Chase
 icon: 
-description: " Chase - Up to $300 Checking"
+description: "\\$100 - $300"
 image: "/uploads/joe-yates-619092-unsplash.jpg"
 layout: post
 ---
