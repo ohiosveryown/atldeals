@@ -11,7 +11,7 @@ image: "/uploads/ATL2.jpg"
 layout: post
 ---
 
-# $300 Checking
+# **$300 Checking**
 
 # [Bonus Details](https://accounts.chase.com/consumer/banking/extemail?code=GG2669996FX3D9Y1&jp_cmp=rb/59666/ema/LC-NM096/Body_Image_1)
 
@@ -27,7 +27,7 @@ Avoiding Monthly Fee
 
 * One repeating automatic transfer from your Chase checking account of $25 or more; one time transfers do not qualify
 
-# $100 Student Checking
+# **$100 Student Checking**
 
 # [Bonus Details](https://www.chase.com/personal/checking/student-checking)
 
