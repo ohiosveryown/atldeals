@@ -8,7 +8,7 @@ categories:
 postTitle: Introduction to Bank Bonuses
 icon: 
 description: Introduction to Bank Bonuses
-image: "/uploads/goat.jpg"
+image: "/uploads/credit.gif"
 layout: post
 ---
 
