@@ -1,5 +1,5 @@
 ---
-title: 'PNC: $50 - $300 Checking Account'
+title: 'PNC: $50 - $300 Checking'
 date: 2018-10-23 21:09:00 Z
 categories:
 - new
