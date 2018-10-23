@@ -3,14 +3,13 @@ title: Post Two
 date: 2018-09-02 21:09:00 Z
 categories:
 - new
-- blog
-- credit-card
-postTitle: This is post two we changed it...
-icon: "\U0001F4B3"
-description: This is post two we also changed this...
-image: "/uploads/air-max-270-big-kids-shoe-xqTPRWZZ.jpg"
+- bank-bonus
+postTitle: Chase - up to $300
+icon: 
+description: " Chase - Up to $300 Checking"
+image: "/uploads/pretty.jpg"
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-![list-to-detail.gif](/uploads/list-to-detail.gif)
+[$300 Checking](https://accounts.chase.com/consumer/banking/extemail?code=GG2669996FX3D9Y1&jp_cmp=rb/59666/ema/LC-NM096/Body_Image_1)
+* 0pen a Chase Total Checking® account and set up direct deposit.
