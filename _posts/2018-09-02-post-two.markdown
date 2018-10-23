@@ -7,7 +7,7 @@ categories:
 postTitle: Chase - up to $300
 icon: 
 description: " Chase - Up to $300 Checking"
-image: "/uploads/pretty.jpg"
+image: "/uploads/ATL2.jpg"
 layout: post
 ---
 
