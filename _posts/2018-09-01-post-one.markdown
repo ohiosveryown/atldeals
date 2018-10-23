@@ -5,9 +5,9 @@ permalink: "/about/"
 categories:
 - new
 - blog
-postTitle: Let's Talk About Bank Bonuses
-icon: "\U0001F4B3"
-description: Let's Talk About Bank Bonuses
+postTitle: Introduction to Bank Bonuses
+icon: 
+description: Introduction to Bank Bonuses
 image: "/uploads/goat.jpg"
 layout: post
 ---
