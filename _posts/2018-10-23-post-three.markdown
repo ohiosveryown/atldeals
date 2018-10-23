@@ -6,7 +6,7 @@ categories:
 - bank-bonus
 postTitle: PNC - up to $300
 icon: 
-description: PNC - up to $300
+description: 'PNC - up to $300                                    '
 image: "/uploads/ATL1.png"
 layout: post
 ---
