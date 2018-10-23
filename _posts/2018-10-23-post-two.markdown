@@ -1,5 +1,5 @@
 ---
-title: 'Chase: $100 - $300 Checking Account'
+title: 'Chase: $100 - $300 Checking'
 date: 2018-10-23 21:09:00 Z
 categories:
 - new
