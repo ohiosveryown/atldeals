@@ -4,7 +4,7 @@ date: 2018-09-02 21:09:00 Z
 categories:
 - new
 - bank-bonus
-postTitle: 
+postTitle: Chase Checking Offer
 icon: 
 description: " Chase - Up to $300 Checking"
 image: "/uploads/joe-yates-619092-unsplash.jpg"
@@ -42,7 +42,8 @@ layout: post
 ![Avoiding Monthly.png](/uploads/Avoiding%20Monthly.png)
 
 * No Monthly Service Fee from the time of account opening until after the student’s expected graduation date
-  [$100 Offer Link](https://www.chase.com/personal/checking/student-checking)
+
+[$100 Offer Link](https://www.chase.com/personal/checking/student-checking)
 
 *Additional Details*
 
