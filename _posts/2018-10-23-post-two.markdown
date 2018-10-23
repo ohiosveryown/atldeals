@@ -1,12 +1,15 @@
 ---
-title: Bank Bonus
+title: 'Chase Checking: $100 - $300'
 date: 2018-10-23 21:09:00 Z
 categories:
 - new
 - bank-bonus
 postTitle: Chase
 icon: 
-description: 'Chase Checking: $100 - $300'
+description: |-
+  * Deposit $25 or more at account opening
+
+  * Direct deposit within 60 days of account opening
 image: "/uploads/joe-yates-619092-unsplash.jpg"
 layout: post
 ---
