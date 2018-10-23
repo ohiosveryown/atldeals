@@ -57,8 +57,11 @@ layout: post
 * Qualifying direct deposit of $500 or more, or
 
 * Provide proof of active enrollment in a qualifying educational institution (expires 6 years after the account is enrolled in the student banking program
-  [Offer Link](https://www.pnc.com/en/personal-banking/banking/checking/campaigns/checking-vw-tiered-offer.html)
-  ***Additional Details***
+
+[Offer Link](https://www.pnc.com/en/personal-banking/banking/checking/campaigns/checking-vw-tiered-offer.html)
+  
+
+* ***Additional Details***
 
 * There is an early account termination fee of $25. This is charged if you close your account within 180 days.
 
