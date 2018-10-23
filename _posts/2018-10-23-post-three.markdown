@@ -1,12 +1,13 @@
 ---
-title: Bank Bonus
+title: 'PNC: $50 - $300'
 date: 2018-10-23 21:09:00 Z
 categories:
 - new
 - bank-bonus
-postTitle: PNC - up to $300
+postTitle: PNC
 icon: 
-description: 'PNC - up to $300                                    '
+description: 'Open a Virtual Wallet Account and receive bonus with direct deposit
+  and 10 debit card transactions                             '
 image: "/uploads/ATL1.png"
 layout: post
 ---
