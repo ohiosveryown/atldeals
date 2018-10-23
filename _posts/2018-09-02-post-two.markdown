@@ -11,7 +11,7 @@ image: "/uploads/joe-yates-619092-unsplash.jpg"
 layout: post
 ---
 
-![$300 Checking (2).png](/uploads/$300%20Checking%20(2).png)
+![New Checking-bda698.png](/uploads/New%20Checking-bda698.png)
 
 ![Bonus Details 4-3d7265.png](/uploads/Bonus%20Details%204-3d7265.png)
 
