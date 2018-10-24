@@ -62,7 +62,7 @@ layout: post
 [Offer Link](https://www.pnc.com/en/personal-banking/banking/checking/campaigns/checking-vw-tiered-offer.html)
   
 
-* ***Additional Details***
+***Additional Details***
 
 * There is an early account termination fee of $25. This is charged if you close your account within 180 days.
 
