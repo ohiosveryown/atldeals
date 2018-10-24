@@ -1,0 +1,14 @@
+---
+title: "$100 For 100 Days Of Burgers & Salads"
+date: 2018-10-23 21:09:00 Z
+categories:
+- new
+- deals
+postTitle: 'SmashBurger Smash Pass: $100 For 100 Days Of ‘Free’ Burgers & Salads'
+icon: 
+description: "**SmashBurger Smash Pass: $100 For 100 Days Of ‘Free’ Burgers & Salads**"
+image: "/uploads/bobby-rodriguezz-1043115-unsplash.jpg"
+layout: post
+---
+
+[Link to 100 days of burgers](https://smashburger.com/smashpass/)
