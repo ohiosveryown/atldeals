@@ -6,9 +6,9 @@ categories:
 - freebies
 postTitle: This is post six and it's description
 icon: 
-description: This is post six and it's description.
+description: This will be freebie number 2
 image: "/uploads/taco-2484868_1920.jpg"
 layout: post
 ---
 
-This will be freebie number 2
+This will be freebie number 2.
