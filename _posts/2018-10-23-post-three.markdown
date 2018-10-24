@@ -44,6 +44,7 @@ layout: post
 * $15,000 in linked eligible accounts
 
 ![$50.png](/uploads/$50.png)
+
 ![Bonus Details (2).png](/uploads/Bonus%20Details%20(2).png)
 
 * Open a Virtual Wallet with Performance Select and receive **$50** with direct deposits totaling **$500**
