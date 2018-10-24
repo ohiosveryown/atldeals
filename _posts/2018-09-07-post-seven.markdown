@@ -6,7 +6,7 @@ categories:
 - freebies
 postTitle: 'Will be freebie #3'
 icon: 
-description: 'This is will be freebie #4'
+description: 'This is will be freebie #3'
 image: "/uploads/taco-2484868_1920.jpg"
 layout: post
 ---
