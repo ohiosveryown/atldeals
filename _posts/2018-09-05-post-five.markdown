@@ -3,7 +3,6 @@ title: Post Five
 date: 2018-09-05 21:09:00 Z
 categories:
 - new
-- freebies
 postTitle: This is post five and it's description
 icon: "\U0001F4B3"
 description: This is post five and it's description. You should probably delete this.
