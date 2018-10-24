@@ -1,12 +1,12 @@
 ---
-title: Post Six
+title: 'Another Freebie #2'
 date: 2018-09-06 21:09:00 Z
 categories:
 - new
 - freebies
 postTitle: This is post six and it's description
-icon: "\U0001F4B3"
-description: This is post six and it's description. You should probably delete this.
+icon: 
+description: This is post six and it's description.
 image: "/uploads/terris-me.jpg"
 layout: post
 ---
