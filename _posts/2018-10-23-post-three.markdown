@@ -29,6 +29,7 @@ layout: post
 * $25,000 in linked eligible accounts
 
 ![$200.png](/uploads/$200.png)
+
 ![Bonus Details (2).png](/uploads/Bonus%20Details%20(2).png)
 
 * Open a Virtual Wallet with Performance Spend and receive **$200** with direct deposits totaling **$2,000**
