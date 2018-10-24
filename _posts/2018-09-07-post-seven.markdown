@@ -1,8 +1,9 @@
 ---
-title: Post Seven
+title: 'Another Freebie #3'
 date: 2018-09-07 21:09:00 Z
 categories:
 - new
+- freebies
 postTitle: This is post seven and it's description
 icon: "\U0001F4B3"
 description: This is post seven and it's description. You should probably delete this.
