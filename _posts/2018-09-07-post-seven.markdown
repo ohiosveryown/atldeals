@@ -4,15 +4,11 @@ date: 2018-09-07 21:09:00 Z
 categories:
 - new
 - freebies
-postTitle: This is post seven and it's description
-icon: "\U0001F4B3"
-description: This is post seven and it's description. You should probably delete this.
-image: "/uploads/IMG_15071.jpg"
+postTitle: 'Will be freebie #3'
+icon: 
+description: This is post seven and it's description.
+image: "/uploads/taco-2484868_1920.jpg"
 layout: post
 ---
 
 This is default post seven.
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
