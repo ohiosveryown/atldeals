@@ -4,6 +4,9 @@ date: 2018-10-15 23:09:00 Z
 categories:
 - bank-bonus
 - new
+postTitle: Fifth Third
+description: 'Daily balance between $500 and $15,500 '
+image: "/uploads/kyle-sudu-399677-unsplash.jpg"
 layout: post
 ---
 
@@ -11,14 +14,13 @@ layout: post
 
 ![Bonus Details (2).png](/uploads/Bonus%20Details%20(2).png)
 
-*Open a new  and reach a balance of $500 within 45 days
+\*Open a new account and reach a balance of $500 within 45 days
 
-*Maintain a minimum daily balance of $500 for 60 days from the date the balance requirement is reached
+\*Maintain a minimum daily balance of $500 for 60 days from the date the balance requirement is reached
 
 ![Avoiding Monthly.png](/uploads/Avoiding%20Monthly.png)
 
 * N/A. Free checking account!
-
 
 ![$400.png](/uploads/$400.png)
 
