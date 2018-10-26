@@ -3,6 +3,8 @@ title: 'Fifth Third: $200 - $400 Checking'
 date: 2018-10-15 23:09:00 Z
 categories:
 - bank-bonus
+- new
+layout: post
 ---
 
 ![$200.png](/uploads/$200.png)
