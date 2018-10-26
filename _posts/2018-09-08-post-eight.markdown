@@ -1,14 +1,16 @@
 ---
-title: 'Freebie #4'
+title: 'IKEA: $25 off $150'
 date: 2018-09-08 21:09:00 Z
 categories:
 - new
 - freebies
-postTitle: Another freebie
+postTitle: 'IKEA: $25 off $150'
 icon: 
-description: 'This will be freebie #4'
-image: "/uploads/taco-2484868_1920.jpg"
+description: 'IKEA: $25 off $150'
+image: "/uploads/kari-shea-580156-unsplash.jpg"
 layout: post
 ---
 
-This is default post eight.
+[Offer Link](https://www.ikea.com/ms/en_US/img/coupon/celebration_coupon_email.pdf)
+
+November 10-11
