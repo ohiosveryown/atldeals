@@ -6,8 +6,7 @@ categories:
 - bank-bonus
 postTitle: Chase
 icon: 
-description: Deposit $25 or more at account opening and have a direct deposit within
-  60 days of account opening
+description: Direct deposit within 60 days of account opening
 image: "/uploads/joe-yates-619092-unsplash.jpg"
 layout: post
 ---
