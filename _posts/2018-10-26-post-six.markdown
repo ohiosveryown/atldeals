@@ -1,6 +1,6 @@
 ---
 title: Marriott Points
-date: 2018-09-06 21:09:00 Z
+date: 2018-10-26 21:09:00 Z
 categories:
 - new
 - freebies
