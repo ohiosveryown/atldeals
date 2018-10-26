@@ -2,7 +2,6 @@
 title: Free BJ’s Wholesale Club Entry Until Nov 4
 date: 2018-10-26 21:09:00 Z
 categories:
-- new
 - freebies
 postTitle: Free BJ’s Wholesale Club Entry Until Nov 4
 icon: 
