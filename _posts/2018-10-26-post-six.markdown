@@ -2,7 +2,6 @@
 title: Marriott Points
 date: 2018-10-26 21:09:00 Z
 categories:
-- new
 - freebies
 postTitle: Marriott Points
 icon: 
