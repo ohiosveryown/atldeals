@@ -6,7 +6,7 @@ categories:
 postTitle: 'Free BJ’s Wholesale Club Entry '
 icon: 
 description: Free BJ’s Wholesale Club Entry
-image: "/uploads/taco-2484868_1920.jpg"
+image: "/uploads/kevin-laminto-682314-unsplash.jpg"
 layout: post
 ---
 
