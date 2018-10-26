@@ -1,14 +1,18 @@
 ---
-title: 'Another Freebie #2'
+title: Marriott Points
 date: 2018-09-06 21:09:00 Z
 categories:
 - new
 - freebies
-postTitle: This is post six and it's description
+postTitle: Marriott Points
 icon: 
-description: 'This will be freebie #2'
-image: "/uploads/taco-2484868_1920.jpg"
+description: 'Play the free Marriott puzzle game to win free points, sweepstakes entry,
+  or even a free night. Can play once a day. '
+image: "/uploads/gerson-repreza-802750-unsplash.jpg"
 layout: post
 ---
 
-This will be freebie number 2.
+Play the free Marriott puzzle game to win free points, sweepstakes entry, or even a free night. Can play once a day.
+
+[Marriott Rewards](https://29ways.marriott.com/en-us)
+
