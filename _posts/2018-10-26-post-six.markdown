@@ -6,8 +6,7 @@ categories:
 - freebies
 postTitle: Marriott Points
 icon: 
-description: 'Play the free Marriott puzzle game to win free points, sweepstakes entry,
-  or even a free night. Can play once a day. '
+description: Free Marriott points
 image: "/uploads/gerson-repreza-802750-unsplash.jpg"
 layout: post
 ---
