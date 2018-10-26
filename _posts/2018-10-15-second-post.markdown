@@ -9,9 +9,9 @@ categories:
 
 ![Bonus Details (2).png](/uploads/Bonus%20Details%20(2).png)
 
-\*Open a new  and reach a balance of $500 within 45 days
+*Open a new  and reach a balance of $500 within 45 days
 
-\*Maintain a minimum daily balance of $500 for 60 days from the date the balance requirement is reached
+*Maintain a minimum daily balance of $500 for 60 days from the date the balance requirement is reached
 
 ![Avoiding Monthly.png](/uploads/Avoiding%20Monthly.png)
 
