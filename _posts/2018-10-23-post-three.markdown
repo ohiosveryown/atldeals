@@ -6,8 +6,7 @@ categories:
 - bank-bonus
 postTitle: PNC
 icon: 
-description: 'Open a Virtual Wallet Account and receive bonus with direct deposit
-  and 10 debit card transactions                             '
+description: 'Direct deposit and 10 debit card transactions                             '
 image: "/uploads/ATL1.png"
 layout: post
 ---
