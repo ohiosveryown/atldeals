@@ -1,17 +1,31 @@
 ---
-title: Post Nine
+title: 'Bank of America: $100 Checking'
 date: 2018-09-09 21:09:00 Z
 categories:
 - new
-postTitle: This is post nine and it's description
-icon: "\U0001F4B3"
-description: This is post nine and it's description. You should probably delete this.
-image: "/uploads/IMG_15071.jpg"
+postTitle: 'Bank of America: $100 Checking'
+icon: 
+description: Make two direct deposits of at least $250 each within 90 days
+image: "/uploads/caleb-jones-174153-unsplash.jpg"
 layout: post
 ---
 
-This is default post nine.
+![New Student Checking.png](/uploads/New%20Student%20Checking.png)
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+![Bonus Details (2).png](/uploads/Bonus%20Details%20(2).png)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+* Make two direct deposits of at least $250 each within 90 days
+
+![Avoiding Monthly.png](/uploads/Avoiding%20Monthly.png)
+
+* Make at least one qualifying Direct Deposit of $250 or more, or
+
+* Minimum daily balance of $1,500 or more, or
+
+* Be a student under age 23 and enrolled in high school, college, or vocational program, OR
+
+[$100 Offer Link](https://promo.bankofamerica.com/chooseyourchecking1/offer/)
+
+***Additional Details***
+
+*This offer is intended for new checking customers only; you are not eligible for this offer if you were a signer on or owner of a Bank of America personal checking account within the last six months.
