@@ -5,7 +5,7 @@ categories:
 - freebies
 postTitle: Marriott Points
 icon: 
-description: Free Marriott points
+description: Free Marriott Points
 image: "/uploads/gerson-repreza-802750-unsplash.jpg"
 layout: post
 ---
