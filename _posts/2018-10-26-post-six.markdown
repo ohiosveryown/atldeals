@@ -11,7 +11,7 @@ image: "/uploads/gerson-repreza-802750-unsplash.jpg"
 layout: post
 ---
 
-Play the free Marriott puzzle game to win free points, sweepstakes entry, or even a free night. Can play once a day.
+Play Marriott's puzzle game to win free points, sweepstakes entry, or even a free night. Can play once a day.
 
 [Marriott Rewards](https://29ways.marriott.com/en-us)
 
