@@ -7,7 +7,7 @@ categories:
 postTitle: 'SmashBurger Smash Pass: $100 For 100 Days Of ‘Free’ Burgers & Salads'
 icon: 
 description: 'SmashBurger Smash Pass: $100 For 100 Days Of ‘Free’ Burgers & Salads'
-image: "/uploads/bobby-rodriguezz-1043115-unsplash.jpg"
+image: "/uploads/bobby-rodriguezz-1043115-unsplash%20(1).jpg"
 layout: post
 ---
 
