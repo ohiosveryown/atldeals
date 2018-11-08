@@ -13,6 +13,9 @@
 }
 
 .card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   margin-bottom: 1.6rem;
   padding: 4rem 2rem;
   // height: 264px;
@@ -24,8 +27,8 @@
   will-change: transform;
   // transition: all 400ms ease;
   @include breakpoint(md)  { padding: 4rem 2rem; }
-  @include breakpoint(mdl) { padding: 5.6rem 2rem; }
-  @include breakpoint(lg)  { padding: 7.2rem 2rem;  }
+  @include breakpoint(mdl) { padding: 5.6rem 2rem; min-width: 50%; }
+  @include breakpoint(lg)  { padding: 7.2rem 2rem; min-height: 28rem;}
 }
 
 .card:nth-of-type(1) { height: 50%; }
