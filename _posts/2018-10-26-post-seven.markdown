@@ -6,7 +6,7 @@ categories:
 postTitle: 'Free BJ’s Wholesale Club Entry '
 icon: 
 description: Free BJ’s Wholesale Club Entry
-image: https://imgur.com/aSsUH5S
+image: https://i.imgur.com/aSsUH5S.jpg
 layout: post
 ---
 
