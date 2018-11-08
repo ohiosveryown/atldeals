@@ -7,7 +7,7 @@ categories:
 postTitle: 'IKEA: $25 off $150'
 icon: 
 description: 'IKEA: $25 off $150'
-image: "/uploads/kari-shea-580156-unsplash.jpg"
+image: https://imgur.com/NcJZRbN
 layout: post
 ---
 
