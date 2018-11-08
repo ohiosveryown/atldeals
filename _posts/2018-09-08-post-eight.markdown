@@ -7,7 +7,7 @@ categories:
 postTitle: 'IKEA: $25 off $150'
 icon: 
 description: 'IKEA: $25 off $150'
-image: https://imgur.com/NcJZRbN
+image: https://i.imgur.com/NcJZRbN.jpg
 layout: post
 ---
 
