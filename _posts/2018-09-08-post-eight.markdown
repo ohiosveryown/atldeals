@@ -3,10 +3,9 @@ title: 'IKEA: $25 off $150'
 date: 2018-09-08 21:09:00 Z
 categories:
 - new
-- freebies
 - deals
 postTitle: 'IKEA: $25 off $150'
-icon: 
+icon:
 description: 'IKEA: $25 off $150'
 image: "/uploads/kari-shea-580156-unsplash.jpg"
 layout: post
