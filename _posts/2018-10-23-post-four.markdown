@@ -1,12 +1,12 @@
 ---
-title: Free Doritos Locos Taco
+title: Free Doritos Locos Taco [Expired]
 date: 2018-10-23 21:09:00 Z
 categories:
 - new
 - freebies
 postTitle: Free Taco Bell
 icon: 
-description: Free Doritos Locos Taco
+description: 'Free Doritos Locos Taco '
 image: "/uploads/taco-2484868_1920.jpg"
 layout: post
 ---
