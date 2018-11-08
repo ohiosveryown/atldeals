@@ -31,14 +31,14 @@
 
 //
 .f-xxl {
-  line-height: 1;
+  line-height: 1.05;
   @include breakpoint(md)  { font-size: 6.4vw; }
   @include breakpoint(mdl) { font-size: 7vw; }
   @include breakpoint(lg)  { font-size: 84px; }
 }
 
 .f-xl {
-  line-height: 1;
+  line-height: 1.05;
   @include breakpoint(md)  { font-size: 6.4vw; }
   @include breakpoint(mdl) { font-size: 7vw; }
   @include breakpoint(lg)  { font-size: 72px; }
