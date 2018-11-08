@@ -4,7 +4,7 @@ date: 2018-10-26 21:09:00 Z
 categories:
 - freebies
 postTitle: Marriott Points
-icon: 
+icon:
 description: Free Marriott Points
 image: "/uploads/gerson-repreza-802750-unsplash.jpg"
 layout: post
@@ -13,4 +13,3 @@ layout: post
 Play Marriott's puzzle game to win free points, sweepstakes entry, or even a free night. Can play once a day.
 
 [Marriott Rewards](https://29ways.marriott.com/en-us)
-
