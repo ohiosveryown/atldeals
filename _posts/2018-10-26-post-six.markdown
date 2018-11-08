@@ -6,7 +6,7 @@ categories:
 postTitle: Marriott Points
 icon: 
 description: Free Marriott Points
-image: https://imgur.com/tVn6lWL
+image: https://i.imgur.com/tVn6lWL.jpg
 layout: post
 ---
 
