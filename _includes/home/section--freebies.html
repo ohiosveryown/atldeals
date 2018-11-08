@@ -6,7 +6,7 @@
 
     <article class="freebies">
       <h6 class="mb-2 f-14">{{ post.date | date_to_long_string }}</h6>
-      <h3 class="f-atlas f-20"><a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.description | truncate: 64 }}</a></h3>
+      <h3 class="f-atlas f-20"><a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 64 }}</a></h3>
     </article>
 
 
