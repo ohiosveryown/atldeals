@@ -5,7 +5,7 @@ categories:
 - new
 - deals
 postTitle: 'IKEA: $25 off $150'
-icon:
+icon: 
 description: 'IKEA: $25 off $150'
 image: "/uploads/kari-shea-580156-unsplash.jpg"
 layout: post
