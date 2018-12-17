@@ -1,6 +1,6 @@
 ---
 title: Free Movie Using Chase Pay
-date: 2018-12-17 13:09:00 Z
+date: 2018-12-16 13:09:00 Z
 categories:
 - new
 - freebies
