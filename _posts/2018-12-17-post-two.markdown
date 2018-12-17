@@ -1,6 +1,6 @@
 ---
 title: 'Chase: $100 - $300 Checking'
-date: 2018-10-23 21:09:00 Z
+date: 2018-12-17 23:09:00 Z
 categories:
 - new
 - bank-bonus
