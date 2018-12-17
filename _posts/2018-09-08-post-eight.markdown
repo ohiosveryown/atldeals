@@ -1,16 +1,15 @@
 ---
-title: 'IKEA: $25 off $150'
+title: FREE sample of Olay Whips
 date: 2018-09-08 21:09:00 Z
 categories:
 - new
 - deals
-postTitle: 'IKEA: $25 off $150'
+postTitle: FREE sample of Olay Whips
 icon: 
-description: 'IKEA: $25 off $150'
-image: https://i.imgur.com/NcJZRbN.jpg
+description: 
+image: https://i.imgur.com/4KuxFPK.jpg
 layout: post
 ---
 
-[Offer Link](https://www.ikea.com/ms/en_US/img/coupon/celebration_coupon_email.pdf)
+[Offer Link](https://olaywhips.com/)
 
-November 10-11
