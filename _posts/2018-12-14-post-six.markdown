@@ -6,7 +6,7 @@ categories:
 postTitle: Freebird - $25
 icon: 
 description: Freebird – Uber Rewards - $25 Sign Up Bonus
-image: https://i.imgur.com/tVn6lWL.jpg
+image: https://imgur.com/nMYOY8x
 layout: post
 ---
 
