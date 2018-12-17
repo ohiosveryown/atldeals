@@ -5,7 +5,7 @@ categories:
 - credit-card
 postTitle: Coming Soon
 icon: 
-description: 'SmashBurger Smash Pass: $100 For 100 Days Of ‘Free’ Burgers & Salads'
+description: 
 image: https://i.imgur.com/oQCE2Kf.jpg
 layout: post
 ---
