@@ -2,7 +2,6 @@
 title: Free Sample of Olay Whips
 date: 2018-12-16 21:09:00 Z
 categories:
-- new
 - freebies
 postTitle: Free Sample of Olay Whips
 icon: 
