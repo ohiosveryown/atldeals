@@ -6,7 +6,7 @@ categories:
 postTitle: Free Panera Bagels
 icon: 
 description: Free Panera Bagels
-image: https://imgur.com/EQCyinq
+image: https://i.imgur.com/EQCyinq.jpg
 layout: post
 ---
 
