@@ -1,14 +1,12 @@
 ---
-title: "$100 For 100 Days Of Burgers & Salads"
+title: Coming Soon
 date: 2018-10-23 21:09:00 Z
 categories:
-- new
-- deals
-postTitle: 'SmashBurger Smash Pass: $100 For 100 Days Of ‘Free’ Burgers & Salads'
+- credit-card
+postTitle: Coming Soon
 icon: 
 description: 'SmashBurger Smash Pass: $100 For 100 Days Of ‘Free’ Burgers & Salads'
-image: https://i.imgur.com/SHi9vhr.jpg
+image: https://i.imgur.com/oQCE2Kf.jpg
 layout: post
 ---
 
-[Link to 100 days of burgers](https://smashburger.com/smashpass/)
