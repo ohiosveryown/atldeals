@@ -1,14 +1,20 @@
 ---
-title: Free Doritos Locos Taco [Expired]
+title: Free Movie - AMC
 date: 2018-10-23 21:09:00 Z
 categories:
 - new
 - freebies
-postTitle: Free Taco Bell
+postTitle: 'Free Movie - AMC '
 icon: 
-description: 'Free Doritos Locos Taco '
-image: "/uploads/taco-2484868_1920.jpg"
+description: Free Movie - AMC
+image: https://i.imgur.com/agoRfxC.jpg
 layout: post
 ---
 
-[Free Taco. Nov 1 from 2-6pm.](https://www.tacobell.com/stealataco)
+Get $7 off any movie ticket on Atom Tickets when paying with Chase Pay.
+
+[Atom Tickets - $7 Off with Chase Pay](https://www.atomtickets.com/promotions/chase-pay-holiday-2018-seven-dollar-offer?)
+
+Sign up for an AMC Stubs account (free), then add your member number to Atom, you can get AMC Stubs pricing through Atom ($5 movies on Tuesday). 
+
+December 17 - 25
