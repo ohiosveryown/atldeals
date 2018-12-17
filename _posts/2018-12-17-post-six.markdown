@@ -3,6 +3,7 @@ title: Freebird – Uber Rewards - $25 Sign Up Bonus
 date: 2018-12-17 21:00:00 Z
 categories:
 - deals
+- new
 postTitle: Freebird - $25
 icon: 
 description: Freebird – Uber Rewards - $25 Sign Up Bonus
