@@ -1,9 +1,8 @@
 ---
-title: Free Movie Using Chase Pay
+title: "[Expired] Free Movie Using Chase Pay"
 date: 2018-12-16 13:09:00 Z
 categories:
 - freebies
-- new
 postTitle: 'Free Movie - AMC '
 icon: 
 description: Free Movie - AMC
