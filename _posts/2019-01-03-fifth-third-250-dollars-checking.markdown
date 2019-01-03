@@ -9,7 +9,7 @@ description: Maintain $500 balance for 60 days
 image: "/uploads/kyle-sudu-399677-unsplash.jpg"
 ---
 
-![$200.png](/uploads/$200.png)
+![$250.png](/uploads/$250.png)
 
 ![Bonus Details (2).png](/uploads/Bonus%20Details%20(2).png)
 
