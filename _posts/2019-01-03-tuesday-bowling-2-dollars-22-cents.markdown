@@ -5,6 +5,7 @@ categories:
 - new
 - deals
 image: https://i.imgur.com/haF9PvN.jpg
+layout: post
 ---
 
 **Bowlmor Lanes**
