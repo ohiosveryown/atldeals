@@ -7,6 +7,7 @@ categories:
 postTitle: First Tennessee
 description: "$300 opening deposit and direct deposit"
 image: https://i.imgur.com/f1FJd1Z.jpg
+layout: post
 ---
 
 Promo Code: OFB150
