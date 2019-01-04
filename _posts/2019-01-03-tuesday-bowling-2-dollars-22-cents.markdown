@@ -1,6 +1,6 @@
 ---
 title: Tuesday Bowling - $2.22
-date: 2019-01-04 19:43:00 Z
+date: 2019-01-03 19:43:00 Z
 categories:
 - new
 - deals
