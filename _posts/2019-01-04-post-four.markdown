@@ -3,6 +3,7 @@ title: Free Museum Visits - BoA Customers
 date: 2019-01-04 13:09:00 Z
 categories:
 - freebies
+- new
 postTitle: 'Free Movie - AMC '
 icon: 
 description: Free Movie - AMC
