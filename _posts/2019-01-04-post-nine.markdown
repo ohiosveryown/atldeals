@@ -7,7 +7,7 @@ categories:
 postTitle: 'Bank of America: $100 Checking'
 icon: 
 description: Make two direct deposits of at least $250 each within 90 days
-image: "/uploads/caleb-jones-174153-unsplash.jpg"
+image: https://i.imgur.com/TbyF3ij.jpg
 layout: post
 ---
 
