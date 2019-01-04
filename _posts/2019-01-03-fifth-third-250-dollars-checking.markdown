@@ -4,7 +4,7 @@ date: 2019-01-03 15:19:00 Z
 categories:
 - bank-bonus
 - new
-postTitle: description
+postTitle: 'Fifth Third: $250 Checking'
 description: Maintain $500 balance for 60 days
 image: "/uploads/kyle-sudu-399677-unsplash.jpg"
 ---

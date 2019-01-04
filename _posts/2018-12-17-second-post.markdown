@@ -1,8 +1,6 @@
 ---
 title: "[Expired]Fifth Third: $200 - $400 Checking"
 date: 2018-12-17 23:09:00 Z
-categories:
-- bank-bonus
 postTitle: Fifth Third
 description: 'Daily balance between $500 and $15,500 '
 image: "/uploads/kyle-sudu-399677-unsplash.jpg"
