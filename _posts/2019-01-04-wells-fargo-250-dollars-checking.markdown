@@ -15,4 +15,4 @@ Earn $150:
 Earn Additional $100:
 * when you continue to receive cumulative direct deposits of $500 or more every 30 days for an additional 150 days after the initial 60-day qualification period
 
-[$100 Offer Link](https://www.wellsfargo.com/jump/checking/fall-prospect-iboffer/)
+[Offer Link](https://www.wellsfargo.com/jump/checking/fall-prospect-iboffer/)
