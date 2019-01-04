@@ -7,6 +7,6 @@ image: https://i.imgur.com/ATtEosn.jpg
 layout: post
 ---
 
-Cinnabon: Free MINIBON Roll For Joining Club Cinnabon
+Free MINIBON Roll For Joining Club Cinnabon
 
 [Offer Link](http://cinnabon.fbmta.com/members/UpdateProfile.aspx?Action=Subscribe&InputSource=W)
