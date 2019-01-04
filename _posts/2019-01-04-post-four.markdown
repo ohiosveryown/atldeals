@@ -6,7 +6,7 @@ categories:
 - new
 postTitle: 'Free Movie - AMC '
 icon: 
-description: Free Movie - AMC
+description: 
 image: https://i.imgur.com/9Y9323P.png
 layout: post
 ---
