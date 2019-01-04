@@ -1,5 +1,5 @@
 ---
-title: 'SunTrust: $250 - $750'
+title: 'SunTrust: $250 - $750 Checking'
 date: 2019-01-04 18:51:00 Z
 postTitle: SunTrust
 description: "$3,000 in direct deposits within 60 days and maintain a minimum balance
