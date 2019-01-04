@@ -1,0 +1,16 @@
+---
+title: Free Museum Visits - BoA Customers
+date: 2019-01-04 13:09:00 Z
+categories:
+- freebies
+- new
+postTitle: 'Free Movie - AMC '
+icon: 
+description: Free Movie - AMC
+image: https://i.imgur.com/9Y9323P.png
+layout: post
+---
+
+Bank of America has a program called ‘Museums On Us‘ that gives it debit & credit cardholders access to free museums on the first full weekend of every month. You need to bring your debit/credit card along with photo ID to gain access and you only get access for the cardholder for free, no guests.
+
+[List of Museums](https://about.bankofamerica.com/en-us/what-guides-us/arts-and-culture/partners.html#fbid=V68mYjzzYF3)
