@@ -1,8 +1,6 @@
 ---
-title: Free Panera Bagels
+title: Free Panera Bagels (expired)
 date: 2018-12-17 21:09:00 Z
-categories:
-- freebies
 postTitle: Free Panera Bagels
 icon: 
 description: Free Panera Bagels
