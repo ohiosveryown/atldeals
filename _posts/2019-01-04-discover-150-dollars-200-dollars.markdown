@@ -1,6 +1,9 @@
 ---
 title: Discover $150 - $200
 date: 2019-01-04 18:32:00 Z
+categories:
+- new
+- bank-bonus
 ---
 
 Open your account by 1/14/19
