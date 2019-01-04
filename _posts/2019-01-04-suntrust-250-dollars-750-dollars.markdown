@@ -1,9 +1,13 @@
 ---
 title: 'SunTrust: $250 - $750 Checking'
 date: 2019-01-04 18:51:00 Z
+categories:
+- new
+- bank-bonus
 postTitle: SunTrust
 description: "$3,000 in direct deposits within 60 days and maintain a minimum balance
   (see post description)"
+image: https://i.imgur.com/nXayhDW.jpg
 ---
 
 **Earn $250:**
