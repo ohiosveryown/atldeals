@@ -7,6 +7,7 @@ categories:
 postTitle: Discover
 description: Deposit a total of $15,000 to earn a $150 Bonus or Deposit a total of
   $25,000
+image: https://i.imgur.com/TTgzqwG.jpg
 ---
 
 Open your account by 1/14/19
