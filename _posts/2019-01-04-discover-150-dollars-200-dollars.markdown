@@ -1,9 +1,12 @@
 ---
-title: Discover $150 - $200
+title: 'Discover: $150 - $200'
 date: 2019-01-04 18:32:00 Z
 categories:
 - new
 - bank-bonus
+postTitle: Discover
+description: Deposit a total of $15,000 to earn a $150 Bonus or Deposit a total of
+  $25,000
 ---
 
 Open your account by 1/14/19
