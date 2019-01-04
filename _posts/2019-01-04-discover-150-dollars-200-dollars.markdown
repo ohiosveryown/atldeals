@@ -1,5 +1,5 @@
 ---
-title: 'Discover: $150 - $200'
+title: 'Discover Savings: $150 - $200'
 date: 2019-01-04 18:32:00 Z
 categories:
 - new
