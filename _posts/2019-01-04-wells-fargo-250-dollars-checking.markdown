@@ -12,6 +12,7 @@ description: "$500 Cumulative Direct Deposit"
 Earn $150:
 * Open an Everyday checking account online. 
 * Cumulative direct deposit of $500 or more within 60 days of opening
+
 Earn Additional $100:
 * when you continue to receive cumulative direct deposits of $500 or more every 30 days for an additional 150 days after the initial 60-day qualification period
 
