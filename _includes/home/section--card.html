@@ -1,12 +1,12 @@
 <div class="cover"></div>
 
 <section class="fade-in-2 wrapper--card">
-  {% for post in site.categories.new limit: 2 %}
+  {% for post in site.categories.new limit: 6 %}
     <a class="card" href="{{ post.url | prepend: site.baseurl }}">
       <article>
         <h2>{{ post.icon }}</h2>
       <h3 class="f-atlas f-22">{{ post.title }}</h3>
-        <p>{{ post.description | truncate: 102 }}</p>
+        <p>{{ post.description | truncate: 92 }}</p>
       </article>
     </a>
 
@@ -19,13 +19,13 @@
   const cardOne = document.querySelectorAll('.card')[0]
   const cardTwo = document.querySelectorAll('.card')[1]
 
-  if (breakpoint.matches) {
-    cardOne.classList.add('rellax')
-    cardOne.setAttribute('data-rellax-speed', '2.5')
-
-    cardTwo.classList.add('rellax')
-    cardTwo.setAttribute('data-rellax-speed', '1.5')
-  }
+  // if (breakpoint.matches) {
+  //   cardOne.classList.add('rellax')
+  //   cardOne.setAttribute('data-rellax-speed', '2.5')
+  //
+  //   cardTwo.classList.add('rellax')
+  //   cardTwo.setAttribute('data-rellax-speed', '1.5')
+  // }
 
   let rellax = new Rellax('.rellax')
 </script>
