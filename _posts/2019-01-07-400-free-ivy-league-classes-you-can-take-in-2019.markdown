@@ -3,6 +3,7 @@ title: 400 Free Ivy League classes you can take in 2019
 date: 2019-01-07 14:28:00 Z
 categories:
 - freebies
+- new
 image: https://i.imgur.com/W05TEAz.jpg
 ---
 
