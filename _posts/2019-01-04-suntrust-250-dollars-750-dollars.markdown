@@ -10,7 +10,7 @@ description: "$3,000 in direct deposits within 60 days and maintain a minimum ba
 image: https://i.imgur.com/nXayhDW.jpg
 ---
 
-**Bonus Details:**
+## **Bonus Details**
 
 
 **Earn $250:**
