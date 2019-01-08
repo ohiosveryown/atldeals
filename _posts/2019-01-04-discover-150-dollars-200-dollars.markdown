@@ -10,7 +10,7 @@ description: Deposit a total of $15,000 to earn a $150 Bonus or Deposit a total 
 image: https://i.imgur.com/TTgzqwG.jpg
 ---
 
-**Bonus Details:**
+## **Bonus Details**
 
 * Open your account by 1/14/19
 
