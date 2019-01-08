@@ -9,6 +9,8 @@ image: https://i.imgur.com/RwDET4y.jpg
 description: "$500 Cumulative Direct Deposit"
 ---
 
+**Bonus Details:**
+
 **Earn $150:**
 * Open an Everyday checking account online. 
 * Cumulative direct deposit of $500 or more within 60 days of opening

@@ -11,11 +11,13 @@ image: "/uploads/kyle-sudu-399677-unsplash.jpg"
 
 ![$250.png](/uploads/$250.png)
 
-![Bonus Details (2).png](/uploads/Bonus%20Details%20(2).png)
 
-\*Maintain a minimum daily balance of $500 for 60 days
+**Bonus Details:**
 
-![Avoiding Monthly.png](/uploads/Avoiding%20Monthly.png)
+* Maintain a minimum daily balance of $500 for 60 days
+
+
+**Avoiding Monthly Fees**
 
 * N/A. Free checking account!
 

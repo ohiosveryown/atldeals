@@ -10,6 +10,9 @@ description: "$3,000 in direct deposits within 60 days and maintain a minimum ba
 image: https://i.imgur.com/nXayhDW.jpg
 ---
 
+**Bonus Details:**
+
+
 **Earn $250:**
 * Deposit at least $100 within 14 days of account opening
 Receive $3,000 in qualifying direct deposits within 60 days of account opening

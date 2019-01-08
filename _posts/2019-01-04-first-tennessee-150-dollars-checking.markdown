@@ -10,6 +10,8 @@ image: https://i.imgur.com/f1FJd1Z.jpg
 layout: post
 ---
 
+**Bonus Details:**
+
 Promo Code: OFB150
 * $300 opening deposit
 * At least one direct deposit within 60 days of opening

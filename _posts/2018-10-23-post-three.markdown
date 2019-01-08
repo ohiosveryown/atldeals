@@ -13,13 +13,14 @@ layout: post
 
 ![New Checking-bda698.png](/uploads/New%20Checking-bda698.png)
 
-![Bonus Details (2).png](/uploads/Bonus%20Details%20(2).png)
+
+**Bonus Details:**
 
 * Open a Virtual Wallet with Performance Select and receive **$300** with direct deposits totaling **$5,000**
 
 * 10 debit card transactions
 
-![Avoiding Monthly.png](/uploads/Avoiding%20Monthly.png)
+**Avoiding Monthly Fees:**
 
 * Average monthly balance of $5,000 or more, or
 
@@ -29,13 +30,14 @@ layout: post
 
 ![$200.png](/uploads/$200.png)
 
-![Bonus Details (2).png](/uploads/Bonus%20Details%20(2).png)
+
+**Bonus Details:**
 
 * Open a Virtual Wallet with Performance Spend and receive **$200** with direct deposits totaling **$2,000**
 
 * 10 debit card transactions
 
-![Avoiding Monthly.png](/uploads/Avoiding%20Monthly.png)
+**Avoiding Monthly Fees:**
 
 * Average monthly balance of $2,000 or more, or
 
@@ -45,13 +47,14 @@ layout: post
 
 ![$50.png](/uploads/$50.png)
 
-![Bonus Details (2).png](/uploads/Bonus%20Details%20(2).png)
+
+**Bonus Details:**
 
 * Open a Virtual Wallet with Performance Select and receive **$50** with direct deposits totaling **$500**
 
 * 10 debit card transactions
 
-![Avoiding Monthly.png](/uploads/Avoiding%20Monthly.png)
+**Avoiding Monthly Fees**
 
 * Average monthly balance of $500 or more, or
 
