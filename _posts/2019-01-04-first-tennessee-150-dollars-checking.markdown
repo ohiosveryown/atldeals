@@ -10,7 +10,7 @@ image: https://i.imgur.com/f1FJd1Z.jpg
 layout: post
 ---
 
-Bonus Details:
+**Bonus Details:**
 
 Promo Code: OFB150
 * $300 opening deposit
