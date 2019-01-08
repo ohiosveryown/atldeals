@@ -12,7 +12,7 @@ image: "/uploads/kyle-sudu-399677-unsplash.jpg"
 ![$250.png](/uploads/$250.png)
 
 
-**Bonus Details:**
+## **Bonus Details**
 
 * Maintain a minimum daily balance of $500 for 60 days
 
