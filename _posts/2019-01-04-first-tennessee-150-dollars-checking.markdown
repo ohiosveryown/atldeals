@@ -10,6 +10,8 @@ image: https://i.imgur.com/f1FJd1Z.jpg
 layout: post
 ---
 
+![Title #1 (2).png](/uploads/Title%20%231%20(2).png)
+
 **Bonus Details:**
 
 Promo Code: OFB150
