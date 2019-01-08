@@ -12,7 +12,7 @@ layout: post
 
 ![Title #1 (2).png](/uploads/Title%20%231%20(2).png)
 
-**Bonus Details:**
+## **Bonus Details**
 
 Promo Code: OFB150
 * $300 opening deposit
