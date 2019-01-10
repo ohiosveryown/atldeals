@@ -1,5 +1,5 @@
 ---
-title: Frontier - $25 - $84 Fares
+title: 'Frontier: $25 - $84 Fares'
 date: 2019-01-10 21:28:00 Z
 categories:
 - new
