@@ -1,5 +1,5 @@
 ---
-title: Frontier - $25+ Fares
+title: Frontier - $25 - $84 Fares
 date: 2019-01-10 21:28:00 Z
 categories:
 - new
@@ -12,4 +12,4 @@ image: https://i.imgur.com/GYiwdwB.jpg
 
 Frontier's sale starts at $25 one-way. That fare includes all transportation fees, surcharges and taxes, but bags will cost you extra. 
 
-Travel should be between 01/17/19 and 04/27/1
+Travel should be between 01/17/19 and 04/27/19
