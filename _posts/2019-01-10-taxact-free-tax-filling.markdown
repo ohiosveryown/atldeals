@@ -1,6 +1,9 @@
 ---
 title: TaxAct - Free Tax Filling
 date: 2019-01-10 21:18:00 Z
+categories:
+- new
+- freebies
 image: https://i.imgur.com/G9oTtzK.jpg
 ---
 
