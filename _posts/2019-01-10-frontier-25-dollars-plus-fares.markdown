@@ -12,4 +12,6 @@ image: https://i.imgur.com/GYiwdwB.jpg
 
 Frontier's sale starts at $25 one-way. That fare includes all transportation fees, surcharges and taxes, but bags will cost you extra. 
 
+Must book by 1/11/2019
+
 Travel should be between 01/17/19 and 04/27/19
