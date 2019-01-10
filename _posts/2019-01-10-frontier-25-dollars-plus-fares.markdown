@@ -5,6 +5,7 @@ categories:
 - new
 - deals
 description: Must book by 1/11/2019
+image: https://i.imgur.com/GYiwdwB.jpg
 ---
 
 [Offer Link](https://www.flyfrontier.com/deals/flight-sales/)
