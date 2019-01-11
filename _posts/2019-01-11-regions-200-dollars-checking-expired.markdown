@@ -13,13 +13,16 @@ layout: post
 
 ## **Bonus Details**
 
-* E-mail yourself a voucher  
+* E-mail yourself a voucher
+
 * Use the promotional code 200PD19Q1 online (apply with the same email you sent the voucher to)
+
 * Make 10 purchases with a Regions Visa Checkcard (must post within 60 days of account opening)
+
 * Make $500 or more in qualifying direct deposits
-* Enroll in Online Statements through Online Banking 
+
+* Enroll in Online Statements through Online Banking
 
 [Offer Link](https://info.regions.com/regions/18/hhg/cashoffer/campaignReglp/index.html?BT_TX=1&ProspectID=A0319F06857F41CB990485B1E69623C0&promo=200PD19Q1)
 
-
-Additional $50 by using a referral link (email me at jenn@atl.deals if you need one) for a total of $250
+Additional $50 by using a referral link (email me at jenn@atl.deals if you need one) **for a total of $250**
