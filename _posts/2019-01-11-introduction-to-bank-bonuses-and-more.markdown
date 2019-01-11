@@ -1,5 +1,5 @@
 ---
-title: Introduction to Bank Bonuses and More
+title: Introduction to Bank Bonuses
 date: 2019-01-11 16:02:00 Z
 categories:
 - blog
