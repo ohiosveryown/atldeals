@@ -8,7 +8,7 @@ categories:
 postTitle: About Me
 icon: 
 description: About Me
-image: https://i.imgur.com/074oHUU.jpg
+image: https://i.imgur.com/Nns9sO7.jpg
 layout: post
 ---
 
