@@ -3,7 +3,7 @@ title: Home Introduction
 date: 2018-09-23 21:09:00 Z
 categories:
 - intro
-firstLine: ATL Daily Deals—
+firstLine: Atlanta Daily Deals—
 secondLine: "Freebies and More for the Atlanta Area \U0001F4B8"
 thirdLine: 
 layout: default
