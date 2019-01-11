@@ -1,6 +1,6 @@
 ---
 title: 'Regions: $200 Checking'
-date: 2019-01-11 16:27:00 Z
+date: 2019-01-11 15:27:00 Z
 categories:
 - new
 - bank-bonus
