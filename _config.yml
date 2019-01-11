@@ -9,12 +9,9 @@ collections:
     title: Uploads
     output: true
 email: matt@ohiosveryown.co
-description: Atlanta Daily Deals (https://atl.deals) is a general repository for all
-  things finance and deals. The intended purpose of the site is to offer insights
-  and education on personal finances. The site is built on Jekyll, hosted on GitHub
-  pages and maintained through Siteleaf. Special thanks for Rellax by Dixon & Moe.
-  The type is set in Proto Grotesk, Founders Grotesk, Atlas Grotesk and System Fonts
-  — Yes, 4+ typefaces. The site was designed and built by Matthew Pence – @cmykw_
+description: 'Atlanta Daily Deals (https://atl.deals) is a general repository for
+  all things finance and deals. The intended purpose of the site is to offer insights
+  and education on personal finances. '
 baseurl: 
 url: https://atl.deals
 twitter_username: cmykw_
