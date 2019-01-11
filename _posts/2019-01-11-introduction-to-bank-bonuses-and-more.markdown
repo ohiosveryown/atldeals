@@ -3,7 +3,6 @@ title: Introduction to Bank Bonuses
 date: 2019-01-11 16:02:00 Z
 categories:
 - blog
-- new
 image: https://i.imgur.com/4DqTfKj.png
 description: Introduction to Bank Bonuses and More
 layout: post
