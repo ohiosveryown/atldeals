@@ -12,7 +12,7 @@ image: https://i.imgur.com/074oHUU.jpg
 layout: post
 ---
 
-# Hello friends! Welcome to Atlanta Daily Deals!
+## Hello friends! Welcome to Atlanta Daily Deals!
 
 This website in intended to be a guide for Atlanta residents to take advantage of free offers, deals, and even make a little side income.
 
