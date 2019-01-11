@@ -3,7 +3,6 @@ title: About Me
 date: 2019-01-10 21:09:00 Z
 permalink: "/about/"
 categories:
-- new
 - blog
 postTitle: About Me
 icon: 
