@@ -1,6 +1,9 @@
 ---
 title: Free Ring Sizer
 date: 2019-01-14 20:00:00 Z
+categories:
+- new
+- freebies
 image: https://i.imgur.com/fC6AABq.jpg
 ---
 
