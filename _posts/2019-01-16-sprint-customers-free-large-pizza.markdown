@@ -10,4 +10,4 @@ layout: post
 
 [Offer Link](https://newsroom.sprint.com/my-sprint-rewards-program-thanks-sprint-customers-and-celebrates-with-valuable-perks-and-deals.htm)
 
-Sprint recently launched **My Sprint Rewards** and is are offering a free large one-topping pizza from Papa John’s to celebrate!
+Sprint recently launched **My Sprint Rewards** and is offering a free large one-topping pizza from Papa John’s to celebrate!
