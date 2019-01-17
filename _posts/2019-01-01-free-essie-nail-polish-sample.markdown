@@ -1,8 +1,6 @@
 ---
 title: Free ESSIE Nail Polish (expired)
 date: 2019-01-01 00:55:00 Z
-categories:
-- freebies
 image: https://i.imgur.com/dEbKMCE.jpg
 layout: post
 ---
