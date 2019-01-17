@@ -1,5 +1,5 @@
 ---
-title: Free ESSIE Nail Polish Sample
+title: Free ESSIE Nail Polish
 date: 2019-01-17 00:55:00 Z
 categories:
 - new
