@@ -1,8 +1,6 @@
 ---
 title: 'Frontier: $25 - $84 Fares'
 date: 2019-01-10 21:28:00 Z
-categories:
-- deals
 description: Must book by 1/11/2019
 image: https://i.imgur.com/GYiwdwB.jpg
 ---
