@@ -1,9 +1,6 @@
 ---
 title: Free Redbox Game
 date: 2019-01-11 15:54:00 Z
-categories:
-- new
-- freebies
 description: One-night game (valid for 1 week)
 image: https://i.imgur.com/wE7UO4r.jpg
 ---
