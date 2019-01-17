@@ -1,6 +1,6 @@
 ---
 title: 'Fifth Third: $250 Checking'
-date: 2019-01-03 15:19:00 Z
+date: 2019-01-17 12:52:00 Z
 categories:
 - bank-bonus
 - new
