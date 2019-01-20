@@ -5,6 +5,7 @@ categories:
 - freebies
 - new
 image: https://i.imgur.com/j8jC9NR.jpg
+layout: post
 ---
 
 Atom Tickets is giving out free movie tickets **every Friday**. To win the free tickets text a code word to 28661. Some code words are:
