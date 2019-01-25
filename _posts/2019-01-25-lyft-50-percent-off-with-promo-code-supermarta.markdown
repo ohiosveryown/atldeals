@@ -7,3 +7,4 @@ categories:
 image: https://i.imgur.com/TcynFzV.jpg
 ---
 
+50% off to and from MARTA train stations for the Superbowl weekend
