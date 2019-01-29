@@ -1,6 +1,9 @@
 ---
 title: Free AMC Tickets To See Black Panther
 date: 2019-01-29 22:25:00 Z
+categories:
+- new
+- freebies
 image: https://i.imgur.com/agoRfxC.jpg
 ---
 
