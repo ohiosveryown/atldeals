@@ -6,7 +6,7 @@ categories:
 - new
 postTitle: Freebird - $25
 icon: 
-description: Freebird – Uber Rewards - $25 Sign Up Bonus
+description: "$25 Off Uber"
 image: https://i.imgur.com/nMYOY8x.jpg
 layout: post
 ---
@@ -15,4 +15,4 @@ Freebird is an app that offers Uber users the ability to earn rewards by visitin
 
 New users can get $25 off their first ride with promo code FREERIDE.
 
-[Additional $10 off](https://my.fbird.co/ihjn0yPJqS) using the referral code: w6384
+[Additional $10 off](https://my.fbird.co/ihjn0yPJqS) using the code: w6384
