@@ -15,6 +15,7 @@ image: https://i.imgur.com/AVp1il4.jpg
 $150 bonus will bonus on the six month anniversary provided the following requirements are met:
 * Account has been open the entire six months
 * Account has received at least five qualifying direct deposits
+
 An additional $150 bonus will post to the account on the one year anniversary, provided the following requirements are met:
 * Account has been open the entire year
 * Account has received at least 11 qualifying direct deposits
