@@ -12,11 +12,11 @@ image: https://i.imgur.com/TTgzqwG.jpg
 
 ## **Bonus Details**
 
-* Open your account by 1/14/19
+* Open your account by 3/4/19 Deposit funds by 3/18/19
 
-* Enter Offer Code: NPBE1218 when applying.
+* Enter Offer Code: NPBE219 when applying.
 
-* Deposit a total of $15,000 to earn a $150 Bonus or Deposit a total of $25,000 to earn a $200 Bonus by 1/28/19. (No minimum amount of time the funds need to be in the account)
+* Deposit a total of $15,000 to earn a $150 Bonus or Deposit a total of $25,000 to earn a $200 Bonus. (No minimum amount of time the funds need to be in the account)
 
 [Offer Link](https://www.discover.com/online-banking/savings-lng-04/?cmpgnid=affl-bk-offer&src=NPBE1218&TPR=065&van=Dbank)
 
