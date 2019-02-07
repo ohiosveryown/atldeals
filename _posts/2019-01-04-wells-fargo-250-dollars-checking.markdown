@@ -1,9 +1,6 @@
 ---
 title: 'Wells Fargo: $250 Checking'
 date: 2019-01-04 18:57:00 Z
-categories:
-- new
-- bank-bonus
 postTitle: Wells Fargo
 image: https://i.imgur.com/RwDET4y.jpg
 description: "$500 Cumulative Direct Deposit"
