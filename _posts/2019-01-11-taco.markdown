@@ -1,9 +1,6 @@
 ---
 title: Slingin' Wings Festival
 date: 2019-01-11 15:18:00 Z
-categories:
-- new
-- deals
 description: First 300 tickets are $10
 image: https://i.imgur.com/rHkQCmu.jpg
 ---
