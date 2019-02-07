@@ -1,9 +1,6 @@
 ---
 title: Walgreens - Free 8×10 Photo
 date: 2019-02-04 14:28:00 Z
-categories:
-- new
-- freebies
 image: https://i.imgur.com/knGaDJe.jpg
 ---
 
