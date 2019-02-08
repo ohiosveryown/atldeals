@@ -11,7 +11,7 @@ image: https://i.imgur.com/nMYOY8x.jpg
 layout: post
 ---
 
-Freebird is an app that offers Uber users the ability to earn rewards by visiting restaurants or bars.
+Freebird is an app that uses UBER and LYFT through the app but ALSO gives you cashback and rewards points by visiting restaurants or bars.
 
 \$25 off with promo code FREERIDE (through the Freebird App).
 
