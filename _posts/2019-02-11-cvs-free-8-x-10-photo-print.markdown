@@ -11,4 +11,4 @@ layout: post
 
 [CVS Link](https://www.cvs.com/photo/create/builder?sku=CommerceProduct_7182&category=prints)
 
-CVS: FREE 8 x 10 Photo Print + FREE In-Store Pick-Up with Promo code VALENTINE
+FREE 8 x 10 Photo Print at CVS + FREE In-Store Pick-Up with Promo code VALENTINE
