@@ -6,6 +6,7 @@ categories:
 - freebies
 description: 'Promo code: VALENTINE'
 image: https://i.imgur.com/knGaDJe.jpg
+layout: post
 ---
 
 [CVS Link](https://www.cvs.com/photo/create/builder?sku=CommerceProduct_7182&category=prints)
