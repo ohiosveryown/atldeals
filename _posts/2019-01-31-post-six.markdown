@@ -1,9 +1,11 @@
 ---
 title: Freebird (Uber) - $25 Sign Up Bonus
 date: 2019-01-31 21:00:00 Z
+permalink: deals/new/2019/01/31/post-six.html
 categories:
 - deals
 - new
+- freebies
 postTitle: Freebird - $25
 icon: 
 description: "$25 Off Uber"
