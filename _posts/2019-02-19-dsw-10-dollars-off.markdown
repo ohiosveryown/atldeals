@@ -10,4 +10,6 @@ layout: post
 
 DSW: Become a Member and Get $10 Off $10
 
+* Takes 4-6 days for the coupon to arrive after signing up
+
 [Link](https://www.dsw.com/en/us/create-account)
