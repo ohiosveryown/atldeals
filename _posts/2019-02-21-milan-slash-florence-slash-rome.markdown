@@ -37,7 +37,7 @@ I recommend using Chase points for **travel**! Yes, you could redeem them for ca
 
 * BMO no longer allows credit card funding, so I recommend opening 2 PNC accounts 1 checking and 1 savings on separate applications! There is a $2,000 limit per application! Apply online and not in branch! And don’t forget about the [PNC Checking Bank Bonus!](https://atl.deals/new/bank-bonus/2018/10/23/post-three.html)
 
-* This card has a **$450 annual fee**. SO worth it! It comes with $300 in travel credit per year. Personally, I used the [$300 travel credit](https://www.doctorofcredit.com/300-chase-sapphire-reserve-travel-credit-work-triggers/) collectively throughout the first year and the second year used the $300 in the first month and then CHANGED THE CARD to the Chase Freedom card (which has no annual fee), so the second year $450 annual fee was refunded and I still got the second $300 travel credit. For a total of $600 travel credit and only paid the first $450 annual fee)
+* This card has a **$450 annual fee**. SO worth it! It comes with $300 in travel credit per year. Personally, I used the [$300 travel credit](https://www.doctorofcredit.com/300-chase-sapphire-reserve-travel-credit-work-triggers/) collectively throughout the first year, and the second year I used the $300 in the first month and then CHANGED THE CARD to the Chase Freedom card (which has no annual fee), so the second year $450 annual fee was refunded and I still got the second $300 travel credit for that first month. For a total of $600 travel credit and only paid the first $450 annual fee)
 
 ## **Reasons this card is amazing:**
 
