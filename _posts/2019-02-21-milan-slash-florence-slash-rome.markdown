@@ -9,11 +9,11 @@ description: Free Travel on Chase Points
 layout: post
 ---
 
-![Trip Overview.png](/uploads/Trip%20Overview.png)
+![Trip Overview-519837.png](/uploads/Trip%20Overview-519837.png)
 
 Back in October of 2018, I was able to **travel to Italy on credit cards points**! 2 Delta Round Trip Tickets to Milan for 68,112 Chase Ultimate Rewards points (34,056 per person)
 
-## **What are Chase points worth?**
+## ![Chase Points.png](/uploads/Chase%20Points.png)
 
 I recommend using Chase points for **travel**! Yes, you could redeem them for cash (50,000 = $500) BUT they're worth SO much more when redeemed for travel. *Further explained below*
 
@@ -57,7 +57,7 @@ There's also the [Chase Sapphire Preferred](https://creditcards.chase.com/reward
 
 Last year, I got both the Sapphire Reserve and Sapphire Preferred Cards, but they only allow 1 Sapphire card per person now. So choose the on that best fits you!
 
-## **What are Chase points worth?**
+## ![Chase Points.png](/uploads/Chase%20Points.png)
 
 Yes, you could redeem them for cash (50,000 = $500) BUT they're worth SO much more when redeemed for travel. You can transfer points to airlines / hotels or redeem through the Chase portal.
 
