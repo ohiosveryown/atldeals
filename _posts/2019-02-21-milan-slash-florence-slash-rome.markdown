@@ -9,11 +9,13 @@ description: Free Travel on Chase Points
 layout: post
 ---
 
+![Trip Overview.png](/uploads/Trip%20Overview.png)
+
 Back in October of 2018, I was able to **travel to Italy on credit cards points**! 2 Delta Round Trip Tickets to Milan for 68,112 Chase Ultimate Rewards points (34,056 per person)
 
 ## **You may be wondering what are Chase points worth?**
 
-I recommend using Chase points for **travel**! Yes, you could redeem them for cash (50,000 = $500) BUT they're worth SO much more when redeemed for travel. *(Further explained below)*
+I recommend using Chase points for **travel**! Yes, you could redeem them for cash (50,000 = $500) BUT they're worth SO much more when redeemed for travel. *Further explained below*
 
 ## **How to get Chase Ultimate Rewards points:**
 
