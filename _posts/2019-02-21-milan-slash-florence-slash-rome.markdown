@@ -5,7 +5,7 @@ categories:
 - new
 - credit-card
 image: https://i.imgur.com/xNYp74u.jpg
-description: Traveling on Chase Points
+description: Free Travel on Chase Points
 layout: post
 ---
 
