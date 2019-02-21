@@ -15,7 +15,7 @@ Back in October of 2018, I was able to **travel to Italy on credit cards points*
 
 I recommend using Chase points for **travel**! Yes, you could redeem them for cash (50,000 = $500) BUT they're worth SO much more when redeemed for travel. *(Further explained below)*
 
-**How to get Chase Ultimate Rewards points:**
+## **How to get Chase Ultimate Rewards points:**
 
 **[Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO) is one of the best offers out right now!**
 
