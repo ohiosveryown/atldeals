@@ -6,9 +6,9 @@ categories:
 - deals
 - new
 - freebies
-postTitle: Freebird - $25
+postTitle: Freebird - $10
 icon: 
-description: "$25 Off Uber"
+description: "$10 Off Uber"
 image: https://i.imgur.com/nMYOY8x.jpg
 layout: post
 ---
