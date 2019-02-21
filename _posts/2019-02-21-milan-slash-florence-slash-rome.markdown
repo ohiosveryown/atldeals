@@ -21,7 +21,7 @@ I recommend using Chase points for **travel**! Yes, you could redeem them for ca
 
 **1.** **[Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO) is one of the best offers out right now!**
 
-80,000 points with $5,000 spend.
+**80,000 points with $5,000 spend.**
 
 * I met the $5000 spending requirement by using Venmo. There’s a 3% fee on Venmo for using a credit card ($150) but in the end received the 80,000 bonus and \~15,450 points\* from $5000 in total Venmo transactions. Total of 95,450 points that cost $150 in fees and $95 for the annual fee on the card.
 
@@ -33,7 +33,7 @@ I recommend using Chase points for **travel**! Yes, you could redeem them for ca
 
 **2.** **[Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve) was one of my favorite cards!**
 
-50,000 points with $4,000 spend.
+**50,000 points with $4,000 spend.**
 
 * I personally met this spend by opening 1 PNC checking account (funding the PNC account with $2,000 from the credit card) and two BMO Harris Checking accounts. [More info on funding bank accounts with credit cards.](https://www.doctorofcredit.com/does-funding-a-bank-account-with-a-credit-card-count-as-a-purchase-or-cash-advance/)
 
