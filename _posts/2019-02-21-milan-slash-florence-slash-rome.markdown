@@ -19,7 +19,7 @@ I recommend using Chase points for **travel**! Yes, you could redeem them for ca
 
 ## ![chase points (2).png](/uploads/chase%20points%20(2).png)
 
-**1.** **[Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO) is one of the best offers out right now!**
+**1.** **[Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO)** is one of the best offers out right now!
 
 **80,000 points with $5,000 spend.**
 
@@ -31,7 +31,7 @@ I recommend using Chase points for **travel**! Yes, you could redeem them for ca
 
 [Offer Link](https://www.referyourchasecard.com/21/GJ60F1V8IO)
 
-**2.** **[Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve) was one of my favorite cards!**
+**2.** **[Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve)** was one of my favorite cards!
 
 **50,000 points with $4,000 spend.**
 
