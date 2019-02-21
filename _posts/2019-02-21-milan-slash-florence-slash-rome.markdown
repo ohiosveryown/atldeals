@@ -40,7 +40,7 @@ I recommend using Chase points for **travel**! Yes, you could redeem them for ca
 
 * This card has a **$450 annual fee**. SO worth it! It comes with $300 in travel credit per year. Personally, I used the [$300 travel credit](https://www.doctorofcredit.com/300-chase-sapphire-reserve-travel-credit-work-triggers/) collectively throughout the first year, and the second year I used the $300 in the first month and then CHANGED THE CARD to the Chase Freedom card (which has no annual fee), so the second year $450 annual fee was refunded and I still got the second $300 travel credit for that first month. For a total of $600 travel credit and only paid the first $450 annual fee)
 
-## **Reasons this card is amazing:**
+***Reasons this card is amazing:***
 
 * **Priority Pass access!** (Gives you and 2 guests access to airport lounges around the world! Free food and drinks (beer, wine, cocktails) at the airport!
 
