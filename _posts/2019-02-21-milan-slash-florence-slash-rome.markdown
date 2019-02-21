@@ -10,6 +10,7 @@ layout: post
 ---
 
 ![Trip.png](/uploads/Trip.png)
+
 Back in October of 2018, I was able to **travel to Italy on credit cards points**! 2 Delta Round Trip Tickets to Milan for 68,112 Chase Ultimate Rewards points (34,056 per person)
 
 ![chase worth.png](/uploads/chase%20worth.png)
