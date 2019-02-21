@@ -9,19 +9,21 @@ description: Free Travel on Chase Points
 layout: post
 ---
 
-Back in October of 2018, I was able to **travel to Italy on Credit Cards points**! 2 Delta Round Trip Tickets to Milan for 68,112 Chase Ultimate Rewards points (34,056 per person)
+![Trip Overview.png](/uploads/Trip%20Overview.png)
+
+Back in October of 2018, I was able to **travel to Italy on credit cards points**! 2 Delta Round Trip Tickets to Milan for 68,112 Chase Ultimate Rewards points (34,056 per person)
 
 ## **You may be wondering what are Chase points worth?**
 
-I recommend using Chase points for **travel**! Yes, you could redeem them for cash (50,000 = $500) BUT they're worth SO much more when redeemed for travel. *(Further explained below)*
+I recommend using Chase points for **travel**! Yes, you could redeem them for cash (50,000 = $500) BUT they're worth SO much more when redeemed for travel. *Further explained below*
 
-**How to get Chase Ultimate Rewards points:**##
+## **How to get Chase Ultimate Rewards points:**
 
 **[Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO) is one of the best offers out right now!**
 
 80,000 points with $5,000 spend.
 
-* I met the $5000 spending requirement by using Venmo. There’s a 3% fee on Venmo for using a credit card ($150) but in the end received the 80,000 bonus and \~15,450 points\* from $5000 in total Venmo transactions. Total of 95,450 that cost $150 in fees and $95 of the annual fee for the card.
+* I met the $5000 spending requirement by using Venmo. There’s a 3% fee on Venmo for using a credit card ($150) but in the end received the 80,000 bonus and \~15,450 points\* from $5000 in total Venmo transactions. Total of 95,450 points that cost $150 in fees and $95 for the annual fee on the card.
 
 * Yes, it’s a business credit card and a business can be anything from selling things eBay, Facebook Marketplace etc! You can find more information on business credit cards [here!](https://www.reddit.com/r/churning/wiki/index#wiki_how_to_get_a_business_card_without_a_business.3F)
 
@@ -37,7 +39,7 @@ I recommend using Chase points for **travel**! Yes, you could redeem them for ca
 
 * BMO no longer allows credit card funding, so I recommend opening 2 PNC accounts 1 checking and 1 savings on separate applications! There is a $2,000 limit per application! Apply online and not in branch! And don’t forget about the [PNC Checking Bank Bonus!](https://atl.deals/new/bank-bonus/2018/10/23/post-three.html)
 
-* This card has a **$450 annual fee**. SO worth it! It comes with $300 in travel credit per year. Personally, I used the [$300 travel credit](https://www.doctorofcredit.com/300-chase-sapphire-reserve-travel-credit-work-triggers/) collectively throughout the first year and the second year used the $300 in the first month and then CHANGED THE CARD to the Chase Freedom card (which has no annual fee), so the second year $450 annual fee was refunded and I still got the second $300 travel credit. For a total of $600 travel credit and only paid the first $450 annual fee)
+* This card has a **$450 annual fee**. SO worth it! It comes with $300 in travel credit per year. Personally, I used the [$300 travel credit](https://www.doctorofcredit.com/300-chase-sapphire-reserve-travel-credit-work-triggers/) collectively throughout the first year, and the second year I used the $300 in the first month and then CHANGED THE CARD to the Chase Freedom card (which has no annual fee), so the second year $450 annual fee was refunded and I still got the second $300 travel credit for that first month. For a total of $600 travel credit and only paid the first $450 annual fee)
 
 ## **Reasons this card is amazing:**
 
