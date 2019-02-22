@@ -1,23 +1,23 @@
 ---
-title: 'Wells Fargo: $250 Checking'
+title: 'Wells Fargo: $400 Checking'
 date: 2019-01-04 18:57:00 Z
+categories:
+- new
+- bank-bonus
 postTitle: Wells Fargo
 image: https://i.imgur.com/RwDET4y.jpg
-description: "$500 Cumulative Direct Deposit"
+description: "$3000 Cumulative Direct Deposit"
+layout: post
 ---
 
-![$250.png](/uploads/$250.png)
+![$400.png](/uploads/$400.png)
 
 ## **Bonus Details**
 
-**Earn $150:**
+**Earn $400:**
 
-* Open an Everyday checking account online.
+* Open a new Everyday Checking account online with a minimum opening deposit of $25 by July 26, 2019.
+* Set up a direct deposit and receive a cumulative monthly total of $3,000 in qualifying direct deposits into your new account for 3 consecutive months
 
-* Cumulative direct deposit of $500 or more within 60 days of opening
 
-**Earn Additional $100:**
-
-* When you continue to receive cumulative direct deposits of $500 or more every 30 days for an additional 150 days after the initial 60-day qualification period
-
-[Offer Link](https://www.wellsfargo.com/jump/checking/fall-prospect-iboffer/)
+[Offer Link](https://www.wellsfargo.com/jump/checking/february-prospect-test-a/)
