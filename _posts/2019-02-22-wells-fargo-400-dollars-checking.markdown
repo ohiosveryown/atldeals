@@ -1,6 +1,6 @@
 ---
 title: 'Wells Fargo: $400 Checking'
-date: 2019-01-04 18:57:00 Z
+date: 2019-02-22 08:57:00 Z
 categories:
 - new
 - bank-bonus
