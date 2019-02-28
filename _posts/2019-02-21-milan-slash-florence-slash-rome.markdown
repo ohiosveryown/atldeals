@@ -23,11 +23,9 @@ I recommend using Chase points for **travel**! Yes, you could redeem them for ca
 
 **80,000 points with $5,000 spend.**
 
-* I met the $5000 spending requirement by using Venmo. There’s a 3% fee on Venmo for using a credit card ($150) but in the end received the 80,000 bonus and \~15,450 points\* from $5000 in total Venmo transactions. Total of 95,450 points that cost $150 in fees and $95 for the annual fee on the card.
+* I met the $5000 spending requirement by using Venmo. There’s a 3% fee on Venmo for using a credit card ($150) but in the end received the 80,000 bonus and 5,150 points from $5000 in total Venmo transactions. Total of 85,150 points that cost $150 in fees and $95 for the annual fee on the card.
 
 * Yes, it’s a business credit card and a business can be anything from selling things eBay, Facebook Marketplace etc! You can find more information on business credit cards [here!](https://www.reddit.com/r/churning/wiki/index#wiki_how_to_get_a_business_card_without_a_business.3F)
-
-*\*For some reason you get 3x the points on Venmo using your Chase Ink Preferred card instead 1x)*
 
 [Offer Link](https://www.referyourchasecard.com/21/GJ60F1V8IO)
 
