@@ -5,6 +5,7 @@ categories:
 - new
 - freebies
 image: https://i.imgur.com/Fy5VNmI.jpg
+description: Free Appetizer and Entree
 ---
 
 Free appetizer for signing up and free entree on your birthday
