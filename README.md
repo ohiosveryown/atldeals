@@ -1,2 +1,2 @@
 # atldeals 💸
-![Atl Daily Deals Interface](http://ohiosveryown.co/img/deals.png)
+![Atl Daily Deals Interface](http://ohiosveryown.co/img/deals-2.png)
