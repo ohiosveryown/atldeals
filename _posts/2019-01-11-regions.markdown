@@ -1,9 +1,6 @@
 ---
 title: 'Regions: $200 Checking'
 date: 2019-01-11 16:56:00 Z
-categories:
-- new
-- bank-bonus
 description: " Make $500 or more in qualifying direct deposits"
 image: https://i.imgur.com/fqztpKq.jpg
 layout: post
