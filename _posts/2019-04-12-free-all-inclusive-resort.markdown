@@ -1,5 +1,5 @@
 ---
-title: Free All-Inclusive Resort
+title: Free All-Inclusive Resort Stay
 date: 2019-04-12 13:26:00 Z
 categories:
 - credit-card
