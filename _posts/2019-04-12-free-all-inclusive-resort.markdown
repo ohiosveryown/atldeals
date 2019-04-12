@@ -5,7 +5,8 @@ categories:
 - credit-card
 - new
 description: How to earn enough points to stay at an all-inclusive resort for free!
-  Free food and drinks!
+  Cheers to free food and drinks!
+image: https://i.imgur.com/1P1wKM5.jpg
 layout: post
 ---
 
@@ -17,6 +18,10 @@ The cost of [the Hyatt Ziva Cancun](https://www.hyatt.com/en-US/hotel/mexico/hya
 
 ## **How to:**
 This trip took 2 credit card bonuses to fund. [the Hyatt Credit Card](https://www.referyourchasecard.com/205/DC04ED4R6K) and [the Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO). 
+
+Before you dismiss the credit card bonus because of the spending requirment - there are many ways to [manufacture spend](https://frequentmiler.boardingarea.com/manufactured-spending-complete-guide/) on credits cards, so you're not actually "spending" $6,000 just to get the credit card bonus. 
+
+
 
 Most Hyatt all-inclusive resorts are 25,000 points/ night. The Hyatt credit card sign up bonus covers the first two nights. The second card can be any of the 3 Chase cards mentioned below. 50,000 Chase UR points will cover the last two days.
 
@@ -58,6 +63,8 @@ Yes, you could redeem Chase UR points for cash (50,000 = $500) BUT they're worth
 * None of the benefits mentioned above
 
 Last year, I got both the Sapphire Reserve and Sapphire Preferred Cards, but they only allow 1 Sapphire card per person now. So choose the on that best fits you!
+
+
 
 
 
