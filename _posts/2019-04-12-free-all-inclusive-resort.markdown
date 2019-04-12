@@ -66,5 +66,5 @@ Yes, you could redeem Chase UR points for cash (50,000 = $500) BUT they're worth
 
 Last year, I got both the Sapphire Reserve and Sapphire Preferred Cards, but they only allow 1 Sapphire card per person now. So choose the on that best fits you!
 
-Also, there are [other Hyatt all-inclusive locations](https://www.hyatt.com/brands/all-inclusive) and the Hyatt points can be used at multiple other locations starting at 5,000/night! 
-Bon voyage!
+**Also, there are [other Hyatt all-inclusive locations](https://www.hyatt.com/brands/all-inclusive) and the Hyatt points can be used at multiple other locations starting at 5,000/night! 
+Bon voyage!**
