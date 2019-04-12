@@ -16,8 +16,6 @@ In March of 2019, I was able to **travel to Cancun on credit cards points**! The
 
 The cost of [the Hyatt Ziva Cancun](https://www.hyatt.com/en-US/hotel/mexico/hyatt-ziva-cancun/canif) runs **\~$500\+/night**, but here's how to stay for little to no cost...
 
-Also note - there are [other Hyatt all-inclusive locations](https://www.hyatt.com/brands/all-inclusive) like **Jamaica and Puerto Vallarta** if Cancun isn't for you!
-
 ## **How to:**
 
 This trip took 2 credit card bonuses to fund. [the Hyatt Credit Card](https://www.referyourchasecard.com/205/DC04ED4R6K) and [the Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO).
@@ -68,5 +66,5 @@ Yes, you could redeem Chase UR points for cash (50,000 = $500) BUT they're worth
 
 Last year, I got both the Sapphire Reserve and Sapphire Preferred Cards, but they only allow 1 Sapphire card per person now. So choose the on that best fits you!
 
-Again, there are [other Hyatt all-inclusive locations](https://www.hyatt.com/brands/all-inclusive) and the Hyatt points can be used at multiple other locations starting at 5,000/night! 
+Also, there are [other Hyatt all-inclusive locations](https://www.hyatt.com/brands/all-inclusive) and the Hyatt points can be used at multiple other locations starting at 5,000/night! 
 Bon voyage!
