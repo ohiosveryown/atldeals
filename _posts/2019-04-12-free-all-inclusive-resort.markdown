@@ -18,7 +18,7 @@ The cost of [the Hyatt Ziva Cancun](https://www.hyatt.com/en-US/hotel/mexico/hya
 
 ## **How to:**
 
-This trip took 2 credit card bonuses to fund. [the Hyatt Credit Card](https://www.referyourchasecard.com/205/DC04ED4R6K) and [the Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO).
+This trip took 2 credit card bonuses to fund: [the Hyatt Credit Card](https://www.referyourchasecard.com/205/DC04ED4R6K) and [the Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO).
 
 Before you dismiss the credit card bonus because of the spending requirement - there are many ways to [manufacture spend](https://frequentmiler.boardingarea.com/manufactured-spending-complete-guide/) on credits cards, so you're not actually "spending" $6,000 just to get the credit card bonus.
 
