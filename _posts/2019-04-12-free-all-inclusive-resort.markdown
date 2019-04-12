@@ -18,7 +18,7 @@ The cost of [the Hyatt Ziva Cancun](https://www.hyatt.com/en-US/hotel/mexico/hya
 
 ## **How to:**
 
-This trip took 2 credit card bonuses to fund. [the Hyatt Credit Card](https://www.referyourchasecard.com/205/DC04ED4R6K) and [the Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO).
+This trip took 2 credit card bonuses to fund: [the Hyatt Credit Card](https://www.referyourchasecard.com/205/DC04ED4R6K) and [the Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO).
 
 Before you dismiss the credit card bonus because of the spending requirement - there are many ways to [manufacture spend](https://frequentmiler.boardingarea.com/manufactured-spending-complete-guide/) on credits cards, so you're not actually "spending" $6,000 just to get the credit card bonus.
 
@@ -66,5 +66,5 @@ Yes, you could redeem Chase UR points for cash (50,000 = $500) BUT they're worth
 
 Last year, I got both the Sapphire Reserve and Sapphire Preferred Cards, but they only allow 1 Sapphire card per person now. So choose the on that best fits you!
 
-Also, there are [other Hyatt all-inclusive locations](https://www.hyatt.com/brands/all-inclusive) and the Hyatt points can be used at multiple other locations starting at 5,000/night! 
-Bon voyage!
+**Also, there are [other Hyatt all-inclusive locations](https://www.hyatt.com/brands/all-inclusive) and the Hyatt points can be used at multiple other locations starting at 5,000/night! 
+Bon voyage!**
