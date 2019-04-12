@@ -12,20 +12,24 @@ layout: post
 
 ![Trip.png](/uploads/Trip.png)
 
-In March of 2019, I was able to **travel to Cancun on credit cards points**! The first of many all-inclusive vacations; there's nothing better than laying in a cabana on the beach with unlimited food and alcohol. 
+In March of 2019, I was able to **travel to Cancun on credit cards points**! The first of many all-inclusive vacations; there's nothing better than laying in a cabana on the beach with unlimited food and alcohol.
 
-The cost of [the Hyatt Ziva Cancun](https://www.hyatt.com/en-US/hotel/mexico/hyatt-ziva-cancun/canif) runs **~$500+/night**, but here's how to stay for practically free...
+The cost of [the Hyatt Ziva Cancun](https://www.hyatt.com/en-US/hotel/mexico/hyatt-ziva-cancun/canif) runs **\~$500\+/night**, but here's how to stay for little to no cost...
+
+Also note - there are [other Hyatt all-inclusive locations](https://www.hyatt.com/brands/all-inclusive) like **Jamaica and Puerto Vallarta** if Cancun isn't for you!
 
 ## **How to:**
-This trip took 2 credit card bonuses to fund. [the Hyatt Credit Card](https://www.referyourchasecard.com/205/DC04ED4R6K) and [the Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO). 
 
-Before you dismiss the credit card bonus because of the spending requirment - there are many ways to [manufacture spend](https://frequentmiler.boardingarea.com/manufactured-spending-complete-guide/) on credits cards, so you're not actually "spending" $6,000 just to get the credit card bonus. 
+This trip took 2 credit card bonuses to fund. [the Hyatt Credit Card](https://www.referyourchasecard.com/205/DC04ED4R6K) and [the Chase Ink Business Preferred](https://www.referyourchasecard.com/21/GJ60F1V8IO).
 
+Before you dismiss the credit card bonus because of the spending requirement - there are many ways to [manufacture spend](https://frequentmiler.boardingarea.com/manufactured-spending-complete-guide/) on credits cards, so you're not actually "spending" $6,000 just to get the credit card bonus.
 
+## **Redemption**
 
 Most Hyatt all-inclusive resorts are 25,000 points/ night. The Hyatt credit card sign up bonus covers the first two nights. The second card can be any of the 3 Chase cards mentioned below. 50,000 Chase UR points will cover the last two days.
 
-Yes, you could redeem Chase UR points for cash (50,000 = $500) BUT they're worth SO much more when transferring the points to Hyatt. Transferring 50,000 points to Hyatt covers 2 nights at the all-inclusive (valued at over $1,000). 
+Yes, you could redeem Chase UR points for cash (50,000 = $500) BUT they're worth SO much more when transferring the points to Hyatt. Transferring 50,000 points to Hyatt covers 2 nights at the all-inclusive (valued at over $1,000).
+
 
 
 ## ![chase points (2).png](/uploads/chase%20points%20(2).png)
@@ -63,9 +67,4 @@ Yes, you could redeem Chase UR points for cash (50,000 = $500) BUT they're worth
 * None of the benefits mentioned above
 
 Last year, I got both the Sapphire Reserve and Sapphire Preferred Cards, but they only allow 1 Sapphire card per person now. So choose the on that best fits you!
-
-
-
-
-
 
