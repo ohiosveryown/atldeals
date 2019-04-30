@@ -5,7 +5,7 @@ categories:
 - new
 - deals
 image: https://i.imgur.com/JxzWGOo.jpg
-description: 'Must use Apple Pay '
+description: First order free!
 ---
 
 [Ritual App: Get Lunches For $1 Until 5/10 When You Use Apple Pay + $10 Referral Bonus](https://invite.ritual.co/JENNIFER36712)
