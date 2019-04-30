@@ -1,6 +1,9 @@
 ---
 title: Free All-Inclusive Resort Vacation
 date: 2019-04-12 13:26:00 Z
+categories:
+- new
+- credit-card
 description: How to earn enough points to stay at an all-inclusive resort! Cheers
   to free food and drinks!
 image: https://i.imgur.com/1P1wKM5.jpg
