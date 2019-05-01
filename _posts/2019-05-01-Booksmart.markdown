@@ -2,8 +2,8 @@
 title: Free early screening of Booksmart TODAY!
 date: 2019-05-01 15:00:00 Z
 categories:
-- freebies
 - new
+- freebies
 image: https://i.imgur.com/j8jC9NR.jpg
 layout: post
 ---
