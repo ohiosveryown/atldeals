@@ -1,9 +1,6 @@
 ---
 title: 'First Tennessee: $150 Checking'
 date: 2019-01-04 19:10:00 Z
-categories:
-- new
-- bank-bonus
 postTitle: First Tennessee
 description: "$300 opening deposit and direct deposit"
 image: https://i.imgur.com/f1FJd1Z.jpg
