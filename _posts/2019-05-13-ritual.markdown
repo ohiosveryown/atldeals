@@ -1,0 +1,15 @@
+---
+title: 'Ritual App: $10 off a meal'
+date: 2019-05-13 14:28:00 Z
+categories:
+- new
+- deals
+- freebies
+image: https://i.imgur.com/iEFB6uV.jpg
+description: "$1 Meal with Apple Pay! "
+layout: post
+---
+
+[Offer Link:](https://invite.ritual.co/JENNIFER14911) **Get $10 off lunch or dinner with the referral bonus above**
+
+*Locations all over Atlanta! Such as Einstein's, Hudson Grille, and hundreds more!*
