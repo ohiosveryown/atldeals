@@ -9,7 +9,7 @@ image: https://i.imgur.com/UlGTAqg.jpg
 layout: post
 ---
 
-**Free custom business card!**
+**Free custom business cards!**
 [Offer Link](https://www.4over4.com/printing/free-business-cards?PageSpeed=noscript)
 
 \**Website will ask you to post on Facebook or Twitter to get free shipping*
