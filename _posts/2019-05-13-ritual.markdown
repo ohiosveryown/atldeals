@@ -6,7 +6,7 @@ categories:
 - deals
 - freebies
 image: https://i.imgur.com/iEFB6uV.jpg
-description: "$1 Meal with Apple Pay! "
+description: 
 layout: post
 ---
 
