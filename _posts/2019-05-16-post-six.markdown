@@ -8,7 +8,7 @@ categories:
 - freebies
 postTitle: Freebird (UBER) - $10 off
 icon: 
-description: "\\$10 Off Uber"
+description: "$10 Off Uber"
 image: https://i.imgur.com/nMYOY8x.jpg
 layout: post
 ---
