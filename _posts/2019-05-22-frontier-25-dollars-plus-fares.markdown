@@ -12,7 +12,7 @@ layout: post
 
 [Offer Link](https://www.flyfrontier.com/deals/flight-sales/)
 
-Frontier's sale starts at $35 one-way. That fare includes all transportation fees, surcharges and taxes, but bags will cost you extra. 
+Frontier's sale starts at $35 one-way. That fare includes all transportation fees, surcharges and taxes, but bags will cost you extra ($30 each way). 
 
 Must book today!
 
