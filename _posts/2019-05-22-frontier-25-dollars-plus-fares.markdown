@@ -6,7 +6,7 @@ categories:
 - new
 - deals
 description: Must book by today
-image: https://i.imgur.com/GYiwdwB.jpg
+image: https://i.imgur.com/1XKAkha.jpg
 layout: post
 ---
 
