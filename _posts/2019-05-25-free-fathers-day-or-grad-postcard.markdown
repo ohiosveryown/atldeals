@@ -7,8 +7,6 @@ categories:
 image: https://i.imgur.com/umV7nCx.jpg
 ---
 
-Send a free Father's Day or Graduation postcard for free. 
-
-Enter your email and then design your card free!
+Send a free Father's Day or Graduation postcard for free. Enter your email and then design your card free!
 
 [Offer Link](https://prontopostcards.com/)
