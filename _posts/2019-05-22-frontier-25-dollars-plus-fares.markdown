@@ -2,9 +2,6 @@
 title: 'Frontier: $35 - $84 Fares'
 date: 2019-05-22 13:58:00 Z
 permalink: frontier
-categories:
-- new
-- deals
 description: Must book by today
 image: https://i.imgur.com/1XKAkha.jpg
 layout: post
