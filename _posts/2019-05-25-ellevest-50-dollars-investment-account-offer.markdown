@@ -9,11 +9,11 @@ description: "$50 for funding a new investment acct"
 layout: post
 ---
 
-\$50 when you [sign up](https://www.ellevest.com/invite/m83gih) for an investment account with Ellevest and fund your goal account
-
-* Can fund any amount, I funded $5
+\$50 when you [sign up](https://www.ellevest.com/invite/m83gih) for an investment account with Ellevest and fund your goal account!
 
 * Must keep account funded for at least 90 days
+
+* Can fund any amount (I funded $5)
 
 * Expires May 28!
 
