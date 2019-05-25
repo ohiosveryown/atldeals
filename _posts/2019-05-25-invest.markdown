@@ -5,7 +5,7 @@ categories:
 - new
 - bank-bonus
 image: https://i.imgur.com/mFvdBrW.jpg
-description: "$50 for funding a new investment acct"
+description: Receive $50 for funding a new investment acct
 layout: post
 ---
 
