@@ -13,7 +13,7 @@ image: https://i.imgur.com/btu48AG.jpg
 layout: post
 ---
 
-$10 off for Existing Uber or Lyft users!
+**$10 off for Existing Uber or Lyft users!**
 
 Freebird is an app that uses UBER and LYFT through their app but ALSO gives you cashback and rewards points by visiting restaurants or bars.
 
