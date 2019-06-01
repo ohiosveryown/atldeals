@@ -1,8 +1,9 @@
 ---
 title: Free Museum Visits - BoA Customers
-date: 2019-01-04 21:27:00 Z
+date: 2019-06-01 21:27:00 Z
 categories:
 - freebies
+- new
 postTitle: 
 icon: 
 description: 
