@@ -1,8 +1,8 @@
 ---
 title: Free All-Inclusive Resort Vacation
 date: 2019-04-12 13:26:00 Z
+permalink: Cancun
 categories:
-- new
 - credit-card
 description: How to earn enough points to stay at an all-inclusive resort! Cheers
   to free food and drinks!
