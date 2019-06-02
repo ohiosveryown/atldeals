@@ -1,6 +1,7 @@
 ---
 title: 'Wells Fargo: $400 Checking'
 date: 2019-02-22 08:57:00 Z
+permalink: WellsFargo
 categories:
 - new
 - bank-bonus
@@ -17,7 +18,7 @@ layout: post
 **Earn $400:**
 
 * Open a new Everyday Checking account online with a minimum opening deposit of $25 by July 26, 2019.
+
 * Set up a direct deposit and receive a cumulative monthly total of $3,000 in qualifying direct deposits into your new account for 3 consecutive months
 
-
-[Offer Link](https://www.wellsfargo.com/jump/checking/february-prospect-test-a/)
+[Offer Link](https://bonusoffer.wf.com/promo400)
