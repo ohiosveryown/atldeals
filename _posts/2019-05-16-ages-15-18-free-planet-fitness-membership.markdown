@@ -1,6 +1,7 @@
 ---
 title: Planet Fitness
 date: 2019-05-16 02:03:00 Z
+permalink: PlanetFitness
 categories:
 - freebies
 - new
