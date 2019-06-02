@@ -1,6 +1,7 @@
 ---
 title: Free Museum Visits
 date: 2019-06-01 21:27:00 Z
+permalink: Museum
 categories:
 - freebies
 - new
