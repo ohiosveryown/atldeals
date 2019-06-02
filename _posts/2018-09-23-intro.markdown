@@ -9,3 +9,4 @@ secondLine: "Freebies and More \U0001F4B8"
 layout: default
 ---
 
+![Best of Black Friday.png](/uploads/Best%20of%20Black%20Friday.png)
