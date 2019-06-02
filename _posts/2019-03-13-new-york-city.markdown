@@ -1,5 +1,5 @@
 ---
-title: New York City
+title: New York City - Travel Deal
 date: 2019-03-13 14:02:00 Z
 categories:
 - new
