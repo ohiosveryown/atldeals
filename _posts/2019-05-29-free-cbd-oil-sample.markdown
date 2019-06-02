@@ -1,6 +1,7 @@
 ---
 title: Free CBD Oil Sample
 date: 2019-05-29 15:36:00 Z
+permalink: CBD
 categories:
 - new
 - freebies
