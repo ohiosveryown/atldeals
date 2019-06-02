@@ -41,9 +41,7 @@
 }
 
 .card:nth-of-type(even) {
-  background:
-    linear-gradient(-45deg, #23AE3F 0%, #0E2EEE 100%),
-    url('../img/bg02.jpg')no-repeat center center;
+  background: #00919d;
 }
 .card:nth-of-type(even) { @include breakpoint(mdl) { margin-top: 6.4rem; }}
 .card:nth-of-type(even) { @include breakpoint(lg)  { margin-top: 12.4rem; }}
