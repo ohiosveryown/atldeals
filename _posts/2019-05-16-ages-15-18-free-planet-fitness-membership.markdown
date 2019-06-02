@@ -1,10 +1,10 @@
 ---
-title: Planet Fitness Membership
+title: Planet Fitness
 date: 2019-05-16 02:03:00 Z
 categories:
 - freebies
 - new
-description: Free for Ages 15 to 18! Summer Only!
+description: Free Member for Ages 15 to 18! (Summer Only)
 image: https://i.imgur.com/N9rWH5g.jpg
 layout: post
 ---
