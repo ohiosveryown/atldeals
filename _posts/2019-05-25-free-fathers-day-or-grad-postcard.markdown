@@ -1,5 +1,5 @@
 ---
-title: Free Father's Day or Grad Postcard
+title: Free Father's Day Postcard
 date: 2019-05-25 05:37:00 Z
 categories:
 - new
