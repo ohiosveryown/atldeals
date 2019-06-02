@@ -5,7 +5,7 @@ categories:
 - intro
 image: 
 firstLine: Atlanta Daily Deals
-secondLine: "Freebies and More \U0001F4B8"
+secondLine: "Freebies and More \U0001F4B0"
 layout: default
 ---
 
