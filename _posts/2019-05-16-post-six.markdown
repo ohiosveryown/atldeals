@@ -1,7 +1,7 @@
 ---
 title: Freebird (Uber) - $10 Off
 date: 2019-05-16 08:00:00 Z
-permalink: deals/new/2019/01/31/post-six.html
+permalink: FreeUber
 categories:
 - deals
 - new
