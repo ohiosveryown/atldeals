@@ -5,7 +5,7 @@ permalink: PlanetFitness
 categories:
 - freebies
 - new
-description: Free Member for Ages 15 to 18! (Summer Only)
+description: Free Membership for Ages 15 to 18! (Summer Only)
 image: https://i.imgur.com/N9rWH5g.jpg
 layout: post
 ---
