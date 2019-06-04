@@ -11,4 +11,5 @@ layout: post
 ---
 
 Free Father's Day Card from your pet!
-[https://www.iandloveandyou.com/fathers-day-cards](Offer Link)
+
+[Offer Link](https://www.iandloveandyou.com/fathers-day-cards)
