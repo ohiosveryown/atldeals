@@ -1,9 +1,6 @@
 ---
-title: 'American Pride Bank: $300 Checking'
+title: "[Expired] American Pride Bank: $300 Checking"
 date: 2019-02-02 16:54:00 Z
-categories:
-- new
-- bank-bonus
 postTitle: 'American Pride Bank: $300 Checking'
 description: Monthly Direct Deposit
 image: https://i.imgur.com/AVp1il4.jpg
