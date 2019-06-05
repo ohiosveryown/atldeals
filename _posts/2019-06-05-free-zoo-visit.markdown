@@ -10,4 +10,6 @@ image: https://i.imgur.com/q5CeBCA.jpg
 layout: post
 ---
 
+Free admission for fathers with purchase of any regularly-priced ticket
+
 [Offer Link](https://zooatlanta.org/event/fathers-day-at-the-zoo/)
