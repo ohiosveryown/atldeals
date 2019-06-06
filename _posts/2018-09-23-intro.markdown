@@ -6,7 +6,7 @@ categories:
 image: 
 firstLine: Atlanta Daily Deals
 secondLine: "Freebies and More \U0001F4B0"
-thirdLine: The best things in life are free
+thirdLine: The best things in life are free ✨
 layout: default
 ---
 
