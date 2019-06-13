@@ -1,14 +1,14 @@
 ---
-title: Freebird (Uber) - $10 Off
+title: Freebird - $10 Off
 date: 2019-05-16 08:00:00 Z
 permalink: FreeUber
 categories:
 - deals
 - new
 - freebies
-postTitle: Freebird (UBER) - $10 off
+postTitle: Freebird - $10 off
 icon: 
-description: "$10 Off Uber"
+description: "$10 Off Uber including existing customers!"
 image: https://i.imgur.com/btu48AG.jpg
 layout: post
 ---
