@@ -6,7 +6,7 @@ categories:
 - freebies
 - new
 description: Free 16oz Sunshine Smoothie when you wear flip flops
-Image: http://i.imgur.com/xDciDjJ.jpg
+image: http://i.imgur.com/xDciDjJ.jpg
 layout: post
 ---
 
