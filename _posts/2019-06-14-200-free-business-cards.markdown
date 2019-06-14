@@ -1,6 +1,7 @@
 ---
 title: 200 Free Business Cards
-date: 2019-05-12 21:38:00 Z
+date: 2019-06-14 21:38:00 Z
+permalink: businesscards
 categories:
 - new
 - freebies
