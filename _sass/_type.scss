@@ -43,6 +43,8 @@
   @include breakpoint(mdl) { font-size: 7vw; }
   @include breakpoint(lg)  { font-size: 72px; }
 }
+
+.f-40  { font-size: 3.2rem; line-height: 1.1; @include breakpoint(md) { font-size: 4rem; }}
 .f-30  { font-size: 2.0rem; line-height: 1.1; @include breakpoint(md) { font-size: 3rem; }}
 .f-8vw  { font-size: 7.2vw; }
 .f-22  { font-size: 2.2rem; }
