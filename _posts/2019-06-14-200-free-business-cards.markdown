@@ -7,7 +7,7 @@ categories:
 - freebies
 - deals
 image: https://i.imgur.com/UlGTAqg.jpg
-description: Get 200 free customizable business cards \+ free shipping
+description: Get 200 free customizable business cards + free shipping
 layout: post
 ---
 
