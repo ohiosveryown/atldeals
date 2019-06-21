@@ -1,6 +1,7 @@
 ---
 title: SoFi - $50 Bonus
 date: 2019-06-21 15:18:00 Z
+permalink: sofi
 image: https://i.imgur.com/T1dOuok.jpg
 description: Fund the account with $100 get $50!
 ---
