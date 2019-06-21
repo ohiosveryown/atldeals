@@ -7,7 +7,7 @@ categories:
 - bank-bonus
 postTitle: BB&T $300 Bonus
 description: Get $300 when you open a BB&T account and do bill pay or direct deposit
-image: "/uploads/kyle-sudu-399677-unsplash.jpg"
+image: https://i.imgur.com/IH3njjd.jpg
 icon: 
 layout: post
 ---
