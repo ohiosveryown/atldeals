@@ -1,6 +1,6 @@
 ---
 title: BB&T - $300 Bonus
-date: 2018-06-21 11:09:00 Z
+date: 2019-06-21 11:09:00 Z
 permalink: bbt
 categories:
 - new
