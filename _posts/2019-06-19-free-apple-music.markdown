@@ -5,7 +5,7 @@ permalink: apple music
 categories:
 - new
 - freebies
-description: "**Free Apple Music for Four Months for New Users**"
+description: Free Apple Music for Four Months for New Users
 image: https://i.imgur.com/hPs6ziw.jpg
 layout: post
 ---
