@@ -2,7 +2,7 @@
 title: Frontier Flight Sale
 date: 2019-06-27 13:58:00 Z
 permalink: frontier
-description: Frontier flights from $34 - $134 one-way Fares
+description: Frontier flights from $34 - $134 one-way fares
 image: https://i.imgur.com/1XKAkha.jpg
 layout: post
 ---
