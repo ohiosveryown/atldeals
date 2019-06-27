@@ -1,5 +1,5 @@
 ---
-title: Frontier Flight Sale
+title: Frontier Sale
 date: 2019-06-27 13:58:00 Z
 permalink: frontier
 categories:
