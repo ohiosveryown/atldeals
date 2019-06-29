@@ -5,7 +5,7 @@ permalink: fireworks
 categories:
 - new
 - freebies
-image: http://i.imgur.com/HMAey7s.jpg
+image: http://i.imgur.com/rhQxEPO.jpg
 description: Free pack of sparklers at Phantom Showroom
 ---
 
