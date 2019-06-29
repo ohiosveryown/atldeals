@@ -1,7 +1,7 @@
 ---
 title: Free Sparklers
 date: 2019-06-29 12:12:00 Z
-permalink: fireworks
+permalink: sparklers
 categories:
 - new
 - freebies
