@@ -6,7 +6,7 @@ categories:
 - credit-card
 description: How to earn enough points to stay at an all-inclusive resort! Cheers
   to free food and drinks!
-image: https://i.imgur.com/1P1wKM5.jpg
+image: http://i.imgur.com/XFXUuHn.jpg
 layout: post
 ---
 
