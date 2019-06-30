@@ -14,7 +14,7 @@ layout: post
 
 ![Bonus Details (2).png](/uploads/Bonus%20Details%20(2).png)
 
-\*Set up and receive at least two monthly direct deposits of $100 each
+\*Set up and receive at least two monthly direct deposits of $100 each OR
 
 \*Complete three online bill payments of at least $25 each using U by BB&T
 
