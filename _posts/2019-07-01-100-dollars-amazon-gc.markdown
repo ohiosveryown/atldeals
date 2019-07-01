@@ -6,8 +6,8 @@ categories:
 - new
 - credit-card
 image: https://i.imgur.com/kAf5WEn.jpg
-description: Get a $100 Amazon Gift Card upon approval for the Amazon Business American
-  Express Card
+description: Get a $100 Amazon Gift Card upon approval for the Amazon Business Credit
+  Card
 layout: post
 ---
 
