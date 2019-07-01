@@ -13,9 +13,9 @@ layout: post
 
 ![CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg](/uploads/CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg)
 
-**Amazon Business American Express Card**
+**Amazon Business Credit Card**
 
-* Get a $100 Amazon.com Gift Card upon approval for the Card. (Eligible Prime members get a $125)
+* Get a $100 Amazon.com Gift Card upon approval for the Card. (Eligible Prime members get $125)
 
 * No Annual Fee
 
