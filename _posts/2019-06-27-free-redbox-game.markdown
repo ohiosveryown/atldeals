@@ -2,9 +2,6 @@
 title: Free Redbox Game
 date: 2019-06-27 12:06:00 Z
 permalink: games
-categories:
-- new
-- freebies
 image: https://i.imgur.com/jZT74CB.jpg
 description: Free 1-Night Redbox Game Rental from 6/25-7/1.
 layout: post
