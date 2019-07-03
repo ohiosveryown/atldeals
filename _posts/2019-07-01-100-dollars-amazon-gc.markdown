@@ -24,3 +24,5 @@ layout: post
 [Offer Link](http://refer.amex.us/JENNIWzjpn?XLINK=MYCP)
 
 * Yes, it’s a business credit card and a business can be anything from selling things eBay, Facebook Marketplace etc! You can find more information on business credit cards [here!](https://www.reddit.com/r/churning/wiki/index#wiki_how_to_get_a_business_card_without_a_business.3F)
+
+[Sign up for a free amazon prime trial to get the $125 offer](https://amzn.to/2J6BeMy)
