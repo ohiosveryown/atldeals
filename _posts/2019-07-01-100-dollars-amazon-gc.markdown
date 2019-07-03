@@ -1,12 +1,12 @@
 ---
-title: "$100 Amazon GC"
+title: "$125 Amazon GC"
 date: 2019-07-01 00:29:00 Z
 permalink: amazon
 categories:
 - new
 - credit-card
 image: https://i.imgur.com/kAf5WEn.jpg
-description: Get a $100 Amazon Gift Card upon approval for the Amazon Business Credit
+description: Get a $125 Amazon Gift Card upon approval for the Amazon Business Credit
   Card
 layout: post
 ---
@@ -15,7 +15,7 @@ layout: post
 
 **Amazon Business Credit Card**
 
-* Get a $100 Amazon.com Gift Card upon approval for the Card. (Eligible Prime members get $125)
+* Get a $125 Amazon.com Gift Card upon approval for the Card. (Prime members get $125, sign up for free prime trial to get the full $125 instead of $100!! Link below)
 
 * No Annual Fee
 
