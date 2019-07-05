@@ -6,6 +6,7 @@ categories:
 - freebies
 - new
 image: https://i.imgur.com/ZKzbpbP.jpg
+description: 'Get Free Prime for Prime Day! '
 layout: post
 ---
 
