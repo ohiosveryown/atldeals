@@ -6,7 +6,7 @@ categories:
 - new
 - freebies
 description: Free box of spices from Penzeys
-images: http://i.imgur.com/fqaLKz9.jpg
+image: http://i.imgur.com/fqaLKz9.jpg
 layout: post
 ---
 
