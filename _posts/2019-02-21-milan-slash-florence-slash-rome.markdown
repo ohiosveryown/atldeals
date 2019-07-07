@@ -1,6 +1,7 @@
 ---
 title: Milan / Florence / Rome
 date: 2019-02-21 12:22:00 Z
+permalink: italy
 categories:
 - new
 - credit-card
