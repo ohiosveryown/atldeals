@@ -11,4 +11,5 @@ layout: post
 ---
 
 Free online access to BJ's for July
+
 [Offer Link](https://www.bjs.com/membershipEnroll)
