@@ -1,6 +1,7 @@
 ---
 title: Introduction to Bank Bonuses
 date: 2019-01-11 16:02:00 Z
+permalink: bankbonuses
 categories:
 - blog
 image: https://i.imgur.com/4DqTfKj.png
