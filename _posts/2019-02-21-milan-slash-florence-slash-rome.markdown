@@ -36,7 +36,7 @@ I recommend using Chase points for **travel**! Yes, you could redeem them for ca
 
 * I personally met this spend by opening 1 PNC checking account (funding the PNC account with $2,000 from the credit card) and two BMO Harris Checking accounts. [More info on funding bank accounts with credit cards.](https://www.doctorofcredit.com/does-funding-a-bank-account-with-a-credit-card-count-as-a-purchase-or-cash-advance/)
 
-* Unfortunately BMO no longer allows credit card funding, so I recommend opening a Wells Fargo Account for $500 in credit card funding! And don’t forget the [$400 Wells Fargo Checking Bank Bonus](http://atl.deals/WellsFargo)
+* Unfortunately BMO no longer allows credit card funding, so I recommend opening a Wells Fargo Account for $500 in credit card funding! And don’t forget the [$400 Wells Fargo Checking Bank Bonus](https://atl.deals/WellsFargo)
   And First Home Bank that allows $1,500 in credit card funding as a “purchase” then just pay off the card with your deposit! Apply online and not in branch!
 
 * This card has a **$450 annual fee**. SO worth it! It comes with $300 in travel credit per year. Personally, I used the [$300 travel credit](https://www.doctorofcredit.com/300-chase-sapphire-reserve-travel-credit-work-triggers/) collectively throughout the first year, and the second year I used the $300 in the first month and then CHANGED THE CARD to the Chase Freedom card (which has no annual fee), so the second year $450 annual fee was refunded and I still got the second $300 travel credit for that first month. For a total of $600 travel credit and only paid the first $450 annual fee)
