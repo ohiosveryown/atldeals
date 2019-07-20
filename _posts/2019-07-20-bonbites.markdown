@@ -7,6 +7,7 @@ categories:
 - freebies
 description: Free Cinnabon BonBites at participating malls (Today Only)
 Images: http://i.imgur.com/MbpZcBA.jpg
+layout: post
 ---
 
 From 12pm to 6pm, everyone who visits a participating Cinnabon mall bakery across the U.S. will receive two BonBites completely free, no purchase necessary.
