@@ -6,7 +6,7 @@ categories:
 - new
 - freebies
 description: Free Cinnabon BonBites at participating malls (Today Only)
-Images: http://i.imgur.com/MbpZcBA.jpg
+image: http://i.imgur.com/MbpZcBA.jpg
 layout: post
 ---
 
