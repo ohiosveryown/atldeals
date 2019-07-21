@@ -2,9 +2,6 @@
 title: Free Cinnabon
 date: 2019-07-20 15:40:00 Z
 permalink: bonbites
-categories:
-- new
-- freebies
 description: Free Cinnabon BonBites at participating malls (Today Only)
 image: http://i.imgur.com/MbpZcBA.jpg
 layout: post
