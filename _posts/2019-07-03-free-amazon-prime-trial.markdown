@@ -6,10 +6,10 @@ categories:
 - freebies
 - new
 image: https://i.imgur.com/ZKzbpbP.jpg
-description: 'Get Free Prime for Prime Day! '
+description: Get Free Amazon Prime!
 layout: post
 ---
 
-Amazon Prime Day is July 15th and 16th! Get your 30 day free trial now!
+Get your 30 day free trial now!
 
 [Free Amazon Prime Trial](https://amzn.to/2J6BeMy)
