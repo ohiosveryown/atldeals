@@ -5,6 +5,8 @@ permalink: 'equifax '
 categories:
 - new
 - deals
+image: http://i.imgur.com/b3sd7V7.jpg
+description: "$125 Class action lawsuit for the Equifax data breach "
 layout: post
 ---
 
