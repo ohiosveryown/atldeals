@@ -15,4 +15,4 @@ layout: post
 * Up to 10 years of free credit monitoring or
 * $125 if you don’t enroll in credit monitoring /already have external credit monitoring 
 
-[Class Action Settlement](https://www.ftc.gov/enforcement/cases-proceedings/refunds/equifax-data-breach-settlement)
+[Class Action Settlement](https://www.equifaxbreachsettlement.com/)
