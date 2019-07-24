@@ -16,5 +16,3 @@ layout: post
 * $125 if you don’t enroll in credit monitoring /already have external credit monitoring 
 
 [Check if you're eligible for a claim!](https://eligibility.equifaxbreachsettlement.com/en/eligibility)
-
-[Class Action Settlement](https://www.equifaxbreachsettlement.com/)
