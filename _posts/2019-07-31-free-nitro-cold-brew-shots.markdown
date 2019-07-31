@@ -6,6 +6,7 @@ categories:
 - new
 - freebies
 description: Free Nitro Cold Brew Shots from Starbucks on Aug 2
+image: https://i.imgur.com/AfeaYDX.jpg
 layout: post
 ---
 
