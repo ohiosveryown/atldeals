@@ -10,3 +10,4 @@ description: 'Free mini lipstick from Ambreesh '
 layout: post
 ---
 
+[Offer Link](https://ambreesh.com/pages/get-a-free-mini)
