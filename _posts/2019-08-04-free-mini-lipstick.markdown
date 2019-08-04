@@ -5,7 +5,7 @@ permalink: lipstick
 categories:
 - new
 - freebies
-image: https://imgur.com/a/ZRdfhBR
+image: https://i.imgur.com/ZXWAafw.jpg
 description: 'Free mini lipstick from Ambreesh '
 layout: post
 ---
