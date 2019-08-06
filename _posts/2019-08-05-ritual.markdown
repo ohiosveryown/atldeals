@@ -1,13 +1,13 @@
 ---
 title: 'Ritual App: $10 off a meal'
-date: 2019-05-13 14:28:00 Z
+date: 2019-08-05 14:28:00 Z
 permalink: ritual
 categories:
 - new
 - deals
 - freebies
 image: https://i.imgur.com/iEFB6uV.jpg
-description: 
+description: "\\$10 off of a pick-up order fro over 50 restaurants"
 layout: post
 ---
 
