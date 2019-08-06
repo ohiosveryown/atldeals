@@ -9,4 +9,6 @@ Field name:
 layout: post
 ---
 
-Promo code: AUGUST25
+Get $25 off juul pods with the Promo code: AUGUST25
+
+[Website Link](https://www.juul.com/)
