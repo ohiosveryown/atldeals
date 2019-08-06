@@ -5,7 +5,7 @@ permalink: juul
 categories:
 - new
 - deals
-Field name: 
+image: https://i.imgur.com/Jm4at3K.png
 layout: post
 ---
 
