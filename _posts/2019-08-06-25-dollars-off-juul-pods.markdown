@@ -9,6 +9,6 @@ image: https://i.imgur.com/Jm4at3K.png
 layout: post
 ---
 
-Get $25 off juul pods with the Promo code: AUGUST25
+Get $25 off juul pods with the promo code: AUGUST25
 
 [Website Link](https://www.juul.com/)
