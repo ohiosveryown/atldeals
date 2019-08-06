@@ -1,6 +1,6 @@
 ---
 title: SoFi - $50 Bonus
-date: 2019-06-21 15:18:00 Z
+date: 2019-08-06 15:18:00 Z
 permalink: sofi
 categories:
 - new
@@ -13,8 +13,9 @@ description: Fund the account with $100 get $50!
 
 * New member gets a $50 bonus when signing up with a referral link and funding the account $100
 
-* SoFi offers a checking/savings account which earns 2.25% APY interest
+* SoFi offers a checking/savings account which earns 2.00% APY interest
 
 * It's an online bank just like Discover and Ally
+* No fees on this account!
 
 [Offer Link](https://www.sofi.com/share/money/2501161/)
