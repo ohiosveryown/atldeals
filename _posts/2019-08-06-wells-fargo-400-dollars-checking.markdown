@@ -19,6 +19,6 @@ layout: post
 
 * Open a new Everyday Checking account online with a minimum opening deposit of $25 by July 26, 2019.
 
-* Set up a direct deposit and receive a cumulative monthly total of $3,000 in qualifying direct deposits into your new account for 3 consecutive months
+* Set up a direct deposit and receive a **cumulative** monthly total of $3,000 in qualifying direct deposits into your new account for 3 consecutive months
 
 [Offer Link](https://bonusoffer.wf.com/promo400)
