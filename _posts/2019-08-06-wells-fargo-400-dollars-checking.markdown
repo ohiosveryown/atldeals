@@ -1,6 +1,6 @@
 ---
 title: 'Wells Fargo: $400 Checking'
-date: 2019-02-22 08:57:00 Z
+date: 2019-08-06 16:57:00 Z
 permalink: WellsFargo
 categories:
 - new
