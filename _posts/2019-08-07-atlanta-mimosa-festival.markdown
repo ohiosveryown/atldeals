@@ -9,7 +9,9 @@ image: https://i.imgur.com/YnxcAp9.jpg
 description: 'Enter to win a ticket to the Atlanta Mimosa Festival! '
 ---
 
-Enter to win a ticket to the Atlanta Mimosa Festival! 3 VIP & 3 Bottomless Drink winners. 
+![CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg](/uploads/CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg)
+
+Enter to win a ticket to the Atlanta Mimosa Festival! 3 VIP & 3 Bottomless Drink winners.
 
 Super easy to enter, just put in your email!
 
