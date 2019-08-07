@@ -1,5 +1,5 @@
 ---
-title: Atlanta Mimosa Festival
+title: Mimosa Festival
 date: 2019-08-07 17:29:00 Z
 permalink: mimosa
 categories:
