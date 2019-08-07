@@ -1,5 +1,5 @@
 ---
-title: Two Free Bowling Games
+title: Free Bowling
 date: 2019-08-07 17:36:00 Z
 permalink: bowlmor
 categories:
