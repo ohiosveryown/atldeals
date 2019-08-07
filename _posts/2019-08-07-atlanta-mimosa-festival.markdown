@@ -6,7 +6,7 @@ categories:
 - new
 - freebies
 image: https://i.imgur.com/YnxcAp9.jpg
-Key: 'Enter to win a ticket to the Atlanta Mimosa Festival! '
+description: 'Enter to win a ticket to the Atlanta Mimosa Festival! '
 ---
 
 Enter to win a ticket to the Atlanta Mimosa Festival! 3 VIP & 3 Bottomless Drink winners. 
