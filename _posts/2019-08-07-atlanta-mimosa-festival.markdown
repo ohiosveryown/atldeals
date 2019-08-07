@@ -15,4 +15,4 @@ Enter to win a ticket to the Atlanta Mimosa Festival! 3 VIP & 3 Bottomless Drink
 
 Super easy to enter, just put in your email!
 
-[Offer Link](https://woobox.com/cf98bd/lqwhbe)
+[Offer Link]( https://woobox.com/cf98bd/lqwq1v)
