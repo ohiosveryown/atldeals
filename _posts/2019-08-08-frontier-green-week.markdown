@@ -5,6 +5,8 @@ permalink: green
 categories:
 - new
 - freebies
+image: https://i.imgur.com/IhW9WM7.jpg
+description: Free flight if your last name is Green or Greene!
 layout: post
 ---
 
