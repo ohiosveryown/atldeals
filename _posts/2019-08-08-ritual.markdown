@@ -1,6 +1,6 @@
 ---
 title: 'Ritual App: $10 off a meal'
-date: 2019-08-05 14:28:00 Z
+date: 2019-08-08 14:28:00 Z
 permalink: ritual
 categories:
 - new
