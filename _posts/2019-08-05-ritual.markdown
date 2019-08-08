@@ -7,7 +7,7 @@ categories:
 - deals
 - freebies
 image: https://i.imgur.com/iEFB6uV.jpg
-description: "\\$10 off of a pick-up order fro over 50 restaurants"
+description: "$10 off of a pick-up order from over 50 restaurants"
 layout: post
 ---
 
