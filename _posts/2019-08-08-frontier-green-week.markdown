@@ -1,6 +1,11 @@
 ---
 title: Frontier Green Week
 date: 2019-08-08 12:25:00 Z
+permalink: green
+categories:
+- new
+- freebies
+layout: post
 ---
 
 [Offer Link](https://www.flyfrontier.com/deals/green?mobile=true)
