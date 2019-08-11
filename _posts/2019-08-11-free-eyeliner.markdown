@@ -6,6 +6,7 @@ categories:
 - new
 - freebies
 image: "/uploads/7130FF76-D410-41FC-9142-AF897F12DA00.jpeg"
+description: Free eyeliner from UZ + free shipping
 ---
 
 Enter your email and then they’ll send you a coupon code for free eyeliner! Free shipping!
