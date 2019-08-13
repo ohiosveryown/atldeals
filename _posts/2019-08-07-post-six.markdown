@@ -1,6 +1,6 @@
 ---
 title: Freebird - $10 Off
-date: 2019-07-31 08:00:00 Z
+date: 2019-08-07 08:00:00 Z
 permalink: FreeUber
 categories:
 - deals
