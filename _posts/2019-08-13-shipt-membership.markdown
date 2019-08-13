@@ -10,6 +10,6 @@ description: '1 year free subscription + $15 credit '
 layout: post
 ---
 
-[Website Link](https://www.shipt.com/?noredirect)
+[Website Link](https://signup.shipt.com/)
 
 Promo code: 4C7F28499BA
