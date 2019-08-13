@@ -11,4 +11,4 @@ description: Sign up for Zaxby's email list and get a free sandwich meal
 
 Sign up for Zaxby's email list and get a postcard for a free sandwich meal, including fries and a drink, in the mail!
 
-[Sign Up Now](http://zabys.com)
+[Sign Up Now](http://zaxbys.com)
