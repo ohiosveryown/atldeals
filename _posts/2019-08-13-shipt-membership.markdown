@@ -12,6 +12,6 @@ layout: post
 
 Free grocery delivery service for 1 year 
 
-[Website Link](https://signup.shipt.com/)
-
 Promo code: 4C7F28499BA
+
+[Website Link](https://signup.shipt.com/)
