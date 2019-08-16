@@ -6,8 +6,7 @@ categories:
 - new
 - freebies
 image: "/uploads/E34F52DA-B6F5-4C28-9C6E-4C492435CB8B.jpeg"
-description: Get free tickets for Sep 21. Can choose from 12 different museums /children’s
-  exhibits
+description: Get free tickets for Sep 21. Can choose from 12 different museums
 layout: post
 ---
 
