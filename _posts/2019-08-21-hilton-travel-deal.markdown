@@ -21,7 +21,7 @@ Hilton Honors members (free to join) can get a vacation in Hawaii, New York, Las
 
 * 6-day/5-night stay for $699 plus tax in Honolulu or Waikoloa, Hawaii
 
-**This is such a good deal because as part of this deal you need to complete a two hour timeshare presentation and pitch-**
+**This is such a good deal because there's a slight catch - you need to sit through a two hour timeshare presentation / sales pitch while you're there-**
 
 * *Make sure you're a person that doesn't get persuaded easily and signs up for a timeshare during this presentation*
 
