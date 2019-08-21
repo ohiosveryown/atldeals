@@ -11,7 +11,7 @@ description: Hawaii, New York, Las Vegas or Orlando Hotel Deals from $199 to $69
 
 ![CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg](/uploads/CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg)
 
-Hilton Honors members (free to join) can get a vacation in Hawaii, New York, Las Vegas or Orlando and 50,000 bonus points from $199 to $699.
+Hilton Honors members (free to join) can get a vacation in Hawaii, New York, Las Vegas or Orlando **and** 50,000 bonus points from $199 to $699.
 
 * 4-day/3-night stay for $199 plus tax in Orlando
 
@@ -21,14 +21,14 @@ Hilton Honors members (free to join) can get a vacation in Hawaii, New York, Las
 
 * 6-day/5-night stay for $699 plus tax in Honolulu or Waikoloa, Hawaii
 
-This is such a good deal because as part of this deal you need to complete a two hour timeshare presentation and pitch-
+**This is such a good deal because as part of this deal you need to complete a two hour timeshare presentation and pitch-**
 
 * *Make sure you're a person that doesn't get persuaded easily and signs up for a timeshare during this presentation*
 
 If you call the number listed on the website you may be able to get an even better deal!
 
-[Orlando, Vegas, and New York Offer](https://www.hiltongrandvacations.com/offers/hilton/honors/email/0819/orllvny/lastchance/index.html?sourceCode=588&WT.mc_id=zLADA0WW1XX2OLA3DA4Aff5Aff6MULTIBR7_138624670_1635394)
+[Orlando, Vegas, and New York Offer Link](https://www.hiltongrandvacations.com/offers/hilton/honors/email/0819/orllvny/lastchance/index.html?sourceCode=588&WT.mc_id=zLADA0WW1XX2OLA3DA4Aff5Aff6MULTIBR7_138624670_1635394)
 
-[Hawaii Link](https://www.hiltongrandvacations.com/offers/hilton/honors/email/0819/hi/lastchance/index.html)
+[Hawaii Offer Link](https://www.hiltongrandvacations.com/offers/hilton/honors/email/0819/hi/lastchance/index.html)
 
 Must purchase by August 31, 2019. You have up to 12 months from purchase date to travel and you can travel beginning 30 days after purchase of vacation package.
