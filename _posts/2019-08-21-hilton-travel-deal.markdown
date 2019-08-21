@@ -1,6 +1,8 @@
 ---
 title: Hilton Travel Deal
 date: 2019-08-21 22:19:00 Z
+image: https://i.imgur.com/KPNdo52.jpg
+description: Hawaii, New York, Las Vegas or Orlando Hotel Deals from $199 to $699.
 ---
 
 ![CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg](/uploads/CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg)
