@@ -2,9 +2,6 @@
 title: Ellevest - $20 Offer
 date: 2019-05-25 17:16:00 Z
 permalink: ellevest
-categories:
-- new
-- bank-bonus
 image: https://i.imgur.com/mFvdBrW.jpg
 description: Receive $20 for funding a new investment acct
 layout: post
