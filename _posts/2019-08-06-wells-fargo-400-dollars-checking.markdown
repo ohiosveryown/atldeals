@@ -23,4 +23,4 @@ layout: post
 
 [Offer Link](https://bonusoffer.wf.com/promo400)
 
-If this bonus is not for you, [there's many more!](https://atl.deals/bank-bonus) If you're new to bank account bonuses, you can [learn more here!](https://atl.deals/bankbonuses)
+*If this bonus is not for you, [there's many more!](https://atl.deals/bank-bonus) If you're new to bank account bonuses, you can [learn more here!](https://atl.deals/bankbonuses)*
