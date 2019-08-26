@@ -20,4 +20,6 @@ description: Fund the account with $100 get $50!
 
 [Offer Link](https://www.sofi.com/share/money/2501161/)
 
-If this bonus is not for you, [there's many more!](https://atl.deals/bank-bonus) If you're new to bank account bonuses, you can [learn more here!](https://atl.deals/bankbonuses)
+
+
+*If this bonus is not for you, [there's many more!](https://atl.deals/bank-bonus) If you're new to bank account bonuses, you can [learn more here!](https://atl.deals/bankbonuses)*
