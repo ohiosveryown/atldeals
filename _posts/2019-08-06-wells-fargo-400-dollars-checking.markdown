@@ -6,7 +6,7 @@ categories:
 - new
 - bank-bonus
 postTitle: Wells Fargo
-image: https://i.imgur.com/RwDET4y.jpg
+image: https://i.imgur.com/PyywPIV.jpg
 description: "$3000 Cumulative Direct Deposit"
 layout: post
 ---
