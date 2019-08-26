@@ -26,3 +26,6 @@ layout: post
 *The Express Checking account has a $7 monthly service charge is rebated with at least one direct deposit per statement cycle*.
 
 * You must keep the account open for 6 months, otherwise the bonus will be reverted back
+
+
+*If this bonus is not for you, [there's many more!](https://atl.deals/bank-bonus) If you're new to bank account bonuses, you can [learn more here!](https://atl.deals/bankbonuses)*
