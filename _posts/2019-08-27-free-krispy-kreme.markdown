@@ -10,6 +10,6 @@ description: Free Krispy Kreme doughnut for signing up for Rewards Program
 layout: post
 ---
 
-Free Krispy Kreme doughnut for signing up for Rewards Program
+Free Krispy Kreme doughnut for signing up for Rewards Program!
 
 [Offer Link](https://krispykreme.com/more-smiles/rewards)
