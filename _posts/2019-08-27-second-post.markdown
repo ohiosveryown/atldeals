@@ -1,6 +1,6 @@
 ---
 title: BB&T - $250 Bonus
-date: 2019-08-27 15:09:00 Z
+date: 2019-08-27 17:09:00 Z
 permalink: bbt
 categories:
 - new
