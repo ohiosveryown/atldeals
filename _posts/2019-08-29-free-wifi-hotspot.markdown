@@ -1,5 +1,5 @@
 ---
-title: Free WiFi Hotspot
+title: Free Wifi Hotspot
 date: 2019-08-29 21:04:00 Z
 permalink: freewifi
 categories:
