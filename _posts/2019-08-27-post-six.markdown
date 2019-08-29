@@ -8,7 +8,7 @@ categories:
 - freebies
 postTitle: Freebird - $10 off
 icon: 
-description: "\\$10 Off Uber or Lyft including existing customers!"
+description: "$10 Off Uber or Lyft including existing customers!"
 image: https://i.imgur.com/btu48AG.jpg
 layout: post
 ---
