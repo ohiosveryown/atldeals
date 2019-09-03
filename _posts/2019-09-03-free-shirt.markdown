@@ -6,7 +6,7 @@ categories:
 - new
 - freebies
 image: "/uploads/shirt.PNG"
-description: 'Free Venus Williams T-shirt for Parents '
+description: 'Free Venus Williams T-shirt for signing up online. '
 layout: post
 ---
 
