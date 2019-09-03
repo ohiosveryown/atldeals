@@ -1,7 +1,7 @@
 ---
 title: Free Shirt
 date: 2019-09-03 20:34:00 Z
-permalink: new
+permalink: venus
 categories:
 - new
 - freebies
