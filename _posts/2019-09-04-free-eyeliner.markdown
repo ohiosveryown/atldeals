@@ -2,9 +2,6 @@
 title: Free Eyeliner
 date: 2019-09-04 12:01:00 Z
 permalink: eyeliner
-categories:
-- new
-- freebies
 image: "/uploads/D3F38A31-6E6D-4A36-88E0-33A0604A4666.jpeg"
 description: Today only! First 100k people!
 ---
