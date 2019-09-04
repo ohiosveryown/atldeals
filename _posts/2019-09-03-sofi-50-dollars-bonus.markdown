@@ -1,6 +1,6 @@
 ---
 title: SoFi - $50 Bonus
-date: 2019-08-06 15:18:00 Z
+date: 2019-09-03 22:18:00 Z
 permalink: sofi
 categories:
 - new
