@@ -1,5 +1,5 @@
 ---
-title: Cash App Deal
+title: "$1 off Marta"
 date: 2019-09-07 17:11:00 Z
 permalink: cashapp
 categories:
