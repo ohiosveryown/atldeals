@@ -16,4 +16,4 @@ FYI - You'll get 1 coupon each day, which shows it expires that day, but you'll 
 
 [Offer Link](https://rewards.einsteinbros.com/join?offerCode=FREECOD30&utm_source=social&utm_campaign=panera)
 
-[Other Freebies](https://atl.deals/freebies)
+[Other Freebies](https://atl.deals/)
