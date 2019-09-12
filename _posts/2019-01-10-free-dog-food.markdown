@@ -3,7 +3,6 @@ title: Free Dog Food
 date: 2019-01-10 21:13:00 Z
 categories:
 - new
-- freebies
 image: https://i.imgur.com/4FLzawm.jpg
 ---
 
