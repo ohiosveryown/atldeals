@@ -11,4 +11,6 @@ description: 30 days of free Einstein’s coffee for signing up for their reward
 
 30 days of free Einstein’s coffee for signing up for their rewards program!
 
+FYI - You'll get 1 coupon each day, which shows it expires that day, but you'll get a another coupon the next day!
+
 [Offer Link](https://rewards.einsteinbros.com/join?offerCode=FREECOD30&utm_source=social&utm_campaign=panera)
