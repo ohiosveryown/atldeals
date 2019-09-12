@@ -14,4 +14,6 @@ layout: post
 
 T-Mobile is sending out hotspots to Non-T-Mobile customers to experience data, text, and Wi-Fi calling in your home for 30 days or 30GB. Watch the video in the link below to get more details! Completely free with no strings attached, don't even have to send the device back!
 
+Also includes a free USB charger!
+
 [Offer Link](https://www.t-mobile.com/offers/free-trial#)
