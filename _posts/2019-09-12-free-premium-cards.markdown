@@ -1,5 +1,5 @@
 ---
-title: Free Premium Cards
+title: Free Cards
 date: 2019-09-12 14:20:00 Z
 permalink: walgreenscard
 categories:
@@ -11,6 +11,7 @@ description: Get 6 free 5x7 Premium Photo Cards from Walgreens when you use the 
 layout: post
 ---
 
+![CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg](/uploads/CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg)
 Get 6 free 5x7 Premium Photo Cards from Walgreens when you use the promo code FREECARDS!
 
 Free pick up in store!
