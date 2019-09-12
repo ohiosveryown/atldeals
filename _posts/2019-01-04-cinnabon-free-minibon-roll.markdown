@@ -9,4 +9,4 @@ layout: post
 
 Free MINIBON Roll For Joining Club Cinnabon
 
-[Offer Link](http://cinnabon.fbmta.com/members/UpdateProfile.aspx?Action=Subscribe&InputSource=W)
+[Offer Link](https://www.cinnabon.com/)
