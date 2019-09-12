@@ -1,5 +1,5 @@
 ---
-title: Free Premium Cards
+title: Free Cards
 date: 2019-09-12 14:20:00 Z
 permalink: walgreenscard
 categories:
