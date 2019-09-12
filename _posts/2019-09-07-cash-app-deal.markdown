@@ -5,7 +5,7 @@ permalink: cashapp
 categories:
 - new
 - deals
-description: "$1 off Marta rides!"
+description: "$1 off Marta rides (~50% off)!"
 image: "/uploads/8BC57E51-93FA-44C2-9373-08CF417664EB.jpeg"
 layout: post
 ---
