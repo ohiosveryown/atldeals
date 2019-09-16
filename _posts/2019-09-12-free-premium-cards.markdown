@@ -2,9 +2,6 @@
 title: Free Cards
 date: 2019-09-12 14:20:00 Z
 permalink: walgreenscard
-categories:
-- new
-- freebies
 image: https://i.imgur.com/XXcrONQ.jpg
 description: Get 6 free 5x7 Premium Photo Cards from Walgreens when you use the promo
   code FREECARDS!
