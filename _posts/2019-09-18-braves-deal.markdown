@@ -13,7 +13,7 @@ layout: post
 
 ![CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg](/uploads/CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg)
 
-The Braves offer Value Pack tickets, which comes with a $10 credit to use on food or drinks at the game! I personally used mine towards and H&F burger!
+The Braves offer Value Pack tickets, which comes with a $10 credit to use on food or drinks at the game! I personally used mine towards an H&F burger!
 
 **Use the promo code:VALUE**
 
