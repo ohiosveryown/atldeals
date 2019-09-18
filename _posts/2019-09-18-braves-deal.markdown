@@ -6,7 +6,7 @@ categories:
 - new
 - deals
 image: https://i.imgur.com/AebsHrP.jpg
-description: Deal of Braves Baseball Tickets
+description: Deal on Braves Baseball Tickets
 Field name: 
 layout: post
 ---
