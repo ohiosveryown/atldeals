@@ -20,3 +20,5 @@ The Braves offer Value Pack tickets, which comes with a $10 credit to use on foo
 *For example: For Friday's game the cheapest tickets are $27.35 after fees, but with the value pack you pay $28.50 after fee and get $10 to use at the game!*
 
 [Offer Link](https://www.mlb.com/braves/tickets/specials/value)
+
+Follow us on [Instagram](https://www.instagram.com/atl.deals/)  @atl.deals for deal updates
