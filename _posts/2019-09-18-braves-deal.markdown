@@ -21,4 +21,4 @@ The Braves offer Value Pack tickets, which comes with a $10 credit to use on foo
 
 [Offer Link](https://www.mlb.com/braves/tickets/specials/value)
 
-*Follow us on [Instagram](https://www.instagram.com/atl.deals/)  @atl.deals for deal updates*
+*Follow us on Instagram **@atl.deals** for deal updates*
