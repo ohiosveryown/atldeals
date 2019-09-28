@@ -1,6 +1,6 @@
 ---
 title: Free Amazon Prime Trial
-date: 2019-07-03 14:15:00 Z
+date: 2019-09-28 14:15:00 Z
 permalink: amazonprime
 categories:
 - freebies
