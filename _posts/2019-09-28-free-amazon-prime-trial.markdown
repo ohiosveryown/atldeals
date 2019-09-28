@@ -1,5 +1,5 @@
 ---
-title: Free Amazon Prime Trial
+title: Free Amazon Prime
 date: 2019-09-28 14:15:00 Z
 permalink: amazonprime
 categories:
@@ -15,5 +15,7 @@ Free 6 month trial for students!
 [Free Amazon Prime 6 Month Trial](https://amzn.to/2mFLIKm)
 
 Get your 30 day free trial now!
+
+
 
 [Free Amazon Prime 30 Day Trial](https://amzn.to/2J6BeMy)
