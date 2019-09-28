@@ -6,7 +6,7 @@ categories:
 - freebies
 - new
 image: https://i.imgur.com/ZKzbpbP.jpg
-description: Get Free Amazon Prime!
+description: Get a Free Amazon Prime trial, 6 months for students!
 layout: post
 ---
 
