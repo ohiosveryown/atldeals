@@ -10,12 +10,9 @@ description: Get Free Amazon Prime!
 layout: post
 ---
 
-Free 6 month trial for students!
+Free 6 month trial for students![Offer Link](https://amzn.to/2mFLIKm)
 
-[Free Amazon Prime 6 Month Trial](https://amzn.to/2mFLIKm)
-
-Get your 30 day free trial now!
+Get your 30 day free trial now![Offer Link](https://amzn.to/2J6BeMy)
 
 
-
-[Free Amazon Prime 30 Day Trial](https://amzn.to/2J6BeMy)
+ALSO - Amazon gives you $125 when signing up for a credit card![Offer Details](https://atl.deals/amazon)
