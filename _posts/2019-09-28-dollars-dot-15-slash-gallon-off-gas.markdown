@@ -5,6 +5,8 @@ permalink: gas
 categories:
 - new
 - deals
+image: "/uploads/99E6E099-622B-4889-82B9-C03347431B35.jpeg"
+description: 'Get cashback on gas by simply uploading your receipt '
 ---
 
 ![CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg](/uploads/CB77FAF1-4EEB-4475-969C-447156B15C15.jpeg)
