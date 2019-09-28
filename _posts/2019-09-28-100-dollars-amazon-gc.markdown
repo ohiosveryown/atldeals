@@ -21,7 +21,7 @@ layout: post
 
 * No spending requirement
 
-[Offer Link](http://refer.amex.us/JENNIWzjpn?XLINK=MYCP)
+[Offer Link](http://refer.amex.us/JENNIWVdpA?XL=MIMTW)
 
 * Yes, it’s a business credit card and a business can be anything from selling things eBay, Facebook Marketplace etc! You can find more information on business credit cards [here!](https://www.reddit.com/r/churning/wiki/index#wiki_how_to_get_a_business_card_without_a_business.3F)
 
