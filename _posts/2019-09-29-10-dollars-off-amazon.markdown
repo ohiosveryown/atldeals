@@ -6,6 +6,7 @@ categories:
 - new
 - deals
 description: Get an additional $10 off Amazon Treasure Trunk
+image: https://i.imgur.com/9P1SRvT.jpg
 ---
 
 Amazon is offering an additional $10 off a treasure trunk purchase. Treasure Trunk is a physical that comes to Atlanta, and other select cities and sell items at a deep discount! Sign up to get your additional $10 off below!
