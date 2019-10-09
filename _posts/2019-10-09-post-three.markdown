@@ -18,6 +18,7 @@ layout: post
 
 * Open a High Rewards Checking Account with the Promo Code: HRC19 and receive **$150** when you complete 1 ACH deposit from another bank
 
+[Offer Link](https://www.lgeccu.org/life-your-way.html)
 
 ***Additional Details***
 
