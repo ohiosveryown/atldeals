@@ -18,12 +18,10 @@ layout: post
 
 * Open a High Rewards Checking Account with the Promo Code: HRC19 and receive **$150** when you complete 1 ACH deposit from another bank
 
-**Avoiding Monthly Fees:**
-
-* No fee account!
-
 
 ***Additional Details***
 
 * Unlike other bank bonuses that I have posted, LGE will do a hard pull on your credit rather than a soft
-* Offer Expires 10/30
+* Offer Expires 10/31
+* No monthly fee
+* Earns 2% interest
