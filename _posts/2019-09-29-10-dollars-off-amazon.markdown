@@ -2,9 +2,6 @@
 title: "$10 off Amazon"
 date: 2019-09-29 14:55:00 Z
 permalink: amazontreasure
-categories:
-- new
-- deals
 description: Get an additional $10 off Amazon Treasure Trunk
 image: https://i.imgur.com/9P1SRvT.jpg
 ---
