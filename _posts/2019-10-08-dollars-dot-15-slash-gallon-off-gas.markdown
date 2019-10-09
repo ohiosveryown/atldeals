@@ -1,6 +1,6 @@
 ---
 title: "$.15/Gallon Off Gas"
-date: 2019-09-28 12:26:00 Z
+date: 2019-10-08 12:26:00 Z
 permalink: gas
 categories:
 - new
