@@ -9,6 +9,8 @@ image: https://i.imgur.com/T0vE1tI.jpg
 description: Free Google Home Mini For New & Existing Customers
 ---
 
-[New Spotify Customer](https://www.spotify.com/us/premium/)
+Spotify is offering a free Google home mini to new and existing premium customers (individual or family). You then need to link your Google account to receive the free Google home mimi!
+
+[New Spotify Customers](https://www.spotify.com/us/premium/)
 
 [Existing Spotify Customers](https://www.spotify.com/us/googlehome/register)
