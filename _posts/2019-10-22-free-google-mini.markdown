@@ -9,6 +9,6 @@ image: https://i.imgur.com/T0vE1tI.jpg
 description: Free Google Home Mini For New & Existing Customers
 ---
 
-[New Spotify Customer](https://www.spotify.com/us/premium/)
+[New Spotify Customers](https://www.spotify.com/us/premium/)
 
 [Existing Spotify Customers](https://www.spotify.com/us/googlehome/register)
