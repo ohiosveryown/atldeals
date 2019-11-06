@@ -1,9 +1,6 @@
 ---
 title: 'First Tennessee: $200 Checking'
 date: 2019-05-02 20:55:00 Z
-categories:
-- new
-- bank-bonus
 image: https://i.imgur.com/4PIhxj7.jpg
 description: 1 Direct Deposit
 layout: post
