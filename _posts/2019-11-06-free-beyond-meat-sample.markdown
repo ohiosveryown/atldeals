@@ -1,7 +1,7 @@
 ---
 title: Free Beyond Meat Sample
 date: 2019-11-06 21:25:00 Z
-permalink: beyond meat
+permalink: beyondmeat
 categories:
 - new
 - freebies
