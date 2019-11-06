@@ -14,6 +14,6 @@ layout: post
 
 Enter to win a ticket to the Atlanta Wine Festival! 1 VIP & 3 General Admission - Bottomless Drink winners. Hosted on December 31!
 
-Super easy to enter, just put in your email!
+Super easy to enter, just put in your name and email!
 
 [Offer Link](https://woobox.com/4f6f4v/m0uo0e)
