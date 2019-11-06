@@ -2,9 +2,6 @@
 title: BB&T - $250 Bonus
 date: 2019-08-27 17:09:00 Z
 permalink: bbt
-categories:
-- new
-- bank-bonus
 postTitle: BB&T $300 Bonus
 description: Get $250 when you open a BB&T account and do bill pay or direct deposit
 image: https://i.imgur.com/IH3njjd.jpg
