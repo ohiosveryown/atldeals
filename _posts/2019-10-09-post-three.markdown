@@ -2,9 +2,6 @@
 title: 'LGE: $150 Checking'
 date: 2019-10-09 21:09:00 Z
 permalink: lge
-categories:
-- new
-- bank-bonus
 postTitle: LGE $150 Bonus
 icon: 
 description: Receive $150 when you complete 1 ACH deposit from another bank
