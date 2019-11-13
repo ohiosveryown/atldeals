@@ -1,5 +1,5 @@
 ---
-title: BOGO Free Entrees
+title: BOGO Free Entree
 date: 2019-11-13 15:53:00 Z
 permalink: freefood
 categories:
