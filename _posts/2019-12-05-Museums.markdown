@@ -4,6 +4,7 @@ date: 2019-12-05 21:27:00 Z
 permalink: Museum
 categories:
 - freebies
+- new
 postTitle: 
 icon: 
 description: Free Museum Visit for Bank of America debit & credit cardholders!
