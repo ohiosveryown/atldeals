@@ -2,9 +2,6 @@
 title: Wine Festival
 date: 2019-11-06 18:28:00 Z
 permalink: atlwine
-categories:
-- new
-- freebies
 image: https://i.imgur.com/BRLsg2I.jpg
 description: 'Enter to win a ticket to the Atlanta Wine Festival! '
 layout: post
