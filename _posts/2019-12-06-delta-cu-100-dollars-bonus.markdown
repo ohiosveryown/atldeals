@@ -17,6 +17,8 @@ layout: post
 
 Delta Community Credit Union is matching the first deposit up to $100 for Youth Accounts (Ages 0-12)
 
+* The person opening must be a member of Delta Community Credit Union
+
 * Open a new Youth Savings Account between December 1, 2019 and December 31, 2019
 
 * Make an initial opening deposit of $100 (this will get you the full $100 deposit match)
