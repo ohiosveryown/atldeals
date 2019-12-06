@@ -5,6 +5,8 @@ permalink: sling
 categories:
 - new
 - deals
+image: "/uploads/7A4F3B2A-B38C-4A48-866B-A86B6FBDB85D.jpeg"
+description: Get a free AirTV mini or Google Nest Hub for getting a Sling TV service
 layout: post
 ---
 
