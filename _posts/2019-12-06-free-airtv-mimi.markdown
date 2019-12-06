@@ -2,6 +2,9 @@
 title: Free AirTV mimi
 date: 2019-12-06 11:59:00 Z
 permalink: sling
+categories:
+- new
+- deals
 layout: post
 ---
 
