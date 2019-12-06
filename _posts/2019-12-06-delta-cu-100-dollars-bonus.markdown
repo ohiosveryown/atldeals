@@ -1,5 +1,5 @@
 ---
-title: Delta CU $100 Bonus
+title: Delta $100 Bonus
 date: 2019-12-06 20:56:00 Z
 permalink: deltacu
 categories:
