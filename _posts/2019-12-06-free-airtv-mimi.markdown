@@ -9,3 +9,5 @@ layout: post
 ---
 
 Get a free AirTV mini with 2 months of sling TV service or free Google Nest Hub with 3 months of sling TV service ($25/month)
+
+[Offer Link](https://www.sling.com/deals)
