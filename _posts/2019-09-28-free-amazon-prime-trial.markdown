@@ -2,9 +2,6 @@
 title: Free Amazon Prime
 date: 2019-09-28 14:15:00 Z
 permalink: amazonprime
-categories:
-- freebies
-- new
 image: https://i.imgur.com/ZKzbpbP.jpg
 description: Get a Free Amazon Prime trial, 6 months for students!
 layout: post
