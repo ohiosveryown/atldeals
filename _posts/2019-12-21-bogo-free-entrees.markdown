@@ -7,7 +7,7 @@ categories:
 - deals
 image: https://i.imgur.com/K4ypYIT.jpg
 description: 'Get two-for-one entrées at 110\+ restaurants all over Atlanta and Metro
-  Atlanta for only $45\+ shipping ($48 total!) '
+  Atlanta for only $45 plus shipping ($48 total!) '
 layout: post
 ---
 
