@@ -1,6 +1,6 @@
 ---
 title: Megabus - Free Ride
-date: 2019-12-16 22:40:00 Z
+date: 2019-12-17 22:40:00 Z
 permalink: megabus
 categories:
 - new
