@@ -1,6 +1,6 @@
 ---
 title: Free Google Mini
-date: 2019-12-09 21:14:00 Z
+date: 2019-12-08 21:14:00 Z
 permalink: googlemini
 categories:
 - new
