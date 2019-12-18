@@ -6,6 +6,7 @@ categories:
 - new
 - freebies
 description: Free ticket to the Onesie Pub Crawl in Atlanta
+image: "/uploads/0B9E3209-2F22-47CA-B4ED-7F83AAA9C543.jpeg"
 layout: post
 ---
 
