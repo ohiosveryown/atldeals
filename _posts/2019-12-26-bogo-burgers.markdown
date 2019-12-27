@@ -1,6 +1,6 @@
 ---
 title: BOGO Burgers
-date: 2019-12-27 21:16:00 Z
+date: 2019-12-26 09:16:00 Z
 permalink: shakeshack
 categories:
 - new
