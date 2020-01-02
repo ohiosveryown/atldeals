@@ -20,8 +20,7 @@ I recommend using Chase points for **travel**! Yes, you could redeem them for ca
 
 ## ![chase points (2).png](/uploads/chase%20points%20(2).png)
 
-**1.** **[Chase Ink Business Preferred](Earn 80,00 bonus points with Chase Ink Business Preferred. I can be rewarded, learn more.
-https://www.referyourchasecard.com/21a/5TINVF8107)** is one of the best offers out right now!
+**1.** **[Chase Ink Business Preferred](https://www.referyourchasecard.com/21a/5TINVF8107)** is one of the best offers out right now!
 
 **80,000 points with $5,000 spend.**
 
@@ -29,8 +28,7 @@ https://www.referyourchasecard.com/21a/5TINVF8107)** is one of the best offers o
 
 * Yes, it’s a business credit card and a business can be anything from selling things eBay, Facebook Marketplace etc! You can find more information on business credit cards [here!](https://www.reddit.com/r/churning/wiki/index#wiki_how_to_get_a_business_card_without_a_business.3F)
 
-[Offer Link](Earn 80,00 bonus points with Chase Ink Business Preferred. I can be rewarded, learn more.
-https://www.referyourchasecard.com/21a/5TINVF8107)
+[Offer Link](https://www.referyourchasecard.com/21a/5TINVF8107)
 
 **2.** **[Chase Sapphire Reserve](https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve)** was one of my favorite cards!
 
