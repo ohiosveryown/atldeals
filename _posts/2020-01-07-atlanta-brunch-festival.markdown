@@ -2,9 +2,6 @@
 title: Atlanta Brunch Festival
 date: 2020-01-07 19:22:00 Z
 permalink: brunchtickets
-categories:
-- new
-- deals
 description: 'Discount Atlanta Brunch Festival tickets '
 image: https://i.imgur.com/thYK6GF.jpg
 ---
